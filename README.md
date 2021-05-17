@@ -7,3 +7,12 @@ DAY 1:16/05
     1-4:switch 2 variable values
     1-5:project-band name generator
     
+DAY 2:17/05
+    OVERALL:Data types,type conversion,operators,number manipulation,f-strings
+    2-1:Datatypes(str subscript),type,type conversion
+    2-2:Mathematical operator(PEMDASLR),BMI calculator
+    2-3:Number manipulation(round,//,shorthand),f-string,Life in weeks 
+    2-4:Project:Tip calculator
+
+    
+
