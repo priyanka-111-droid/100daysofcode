@@ -1,4 +1,5 @@
 # 100daysofcode
+
 DAY 1:16/05
     OVERALL:printing,debugging,string manipulation,commenting(ctrl+/ and ctrl+z),input,variables
     1-1:print,single and double quotes
@@ -13,6 +14,3 @@ DAY 2:17/05
     2-2:Mathematical operator(PEMDASLR),BMI calculator
     2-3:Number manipulation(round,//,shorthand),f-string,Life in weeks 
     2-4:Project:Tip calculator
-
-    
-
