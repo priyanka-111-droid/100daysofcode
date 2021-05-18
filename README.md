@@ -14,3 +14,15 @@ DAY 2:17/05
     2-2:Mathematical operator(PEMDASLR),BMI calculator
     2-3:Number manipulation(round,//,shorthand),f-string,Life in weeks 
     2-4:Project:Tip calculator
+
+DAY 3:18/05
+    OVERALL:Conditional statements,logical operator,code blocks,scope
+    3-1:Control flow with if else(cond statement) and conditional operators,Odd or Even 
+    3-2:Nested if and elif,BMI calc 2.0
+    3-3:leap year
+    3-4:Multiple if statements,Pizza order
+    3-5:Logical operators,Love calculator(used lists,count(),lower())
+    3-6:Project:Treasure island
+
+    
+    
