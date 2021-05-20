@@ -24,5 +24,12 @@ DAY 3:18/05
     3-5:Logical operators,Love calculator(used lists,count(),lower())
     3-6:Project:Treasure island
 
+DAY 4:20/05
+    OVERALL:Randomization and lists
+    4-1:random,our own modules,Coin toss program
+    4-2:Lists ,offsets,append,extend,remove,pop,Banker Roulette program(str.split(","),using choice())
+    4-3:IndexError,Dirty dozen(nested lists),Treasure Map exercise
+    4-4:Project:Rock,Paper,Scissors
+    
     
     
