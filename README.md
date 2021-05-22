@@ -28,9 +28,9 @@ Please feel free to point out any mistakes and suggestions.
     
     2-1: Datatypes(str subscript),type,type conversion
     
-    2-2: Mathematical operator(PEMDASLR),BMI calculator
+    2-2: Mathematical operator(PEMDASLR),BMI calculator program
     
-    2-3: Number manipulation(round,//,shorthand),f-string,Life in weeks
+    2-3: Number manipulation(round,//,shorthand),f-string,Life in weeks program
     
     2-4: Project:Tip calculator
 
@@ -38,15 +38,15 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL CONCEPTS: Conditional statements,logical operator,code blocks,scope
     
-    3-1: Control flow with if else(cond statement) and conditional operators,Odd or Even 
+    3-1: Control flow with if else(cond statement) and conditional operators,Odd or Even program
     
-    3-2: Nested if and elif,BMI calc 2.0
+    3-2: Nested if and elif,BMI calc 2.0 program
     
     3-3: leap year
     
-    3-4: Multiple if statements,Pizza order
+    3-4: Multiple if statements,Pizza order program
     
-    3-5: Logical operators,Love calculator(used lists,count(),lower())
+    3-5: Logical operators,Love calculator program(made using lists,count(),lower())
     
     3-6: Project:Treasure island
 
@@ -56,9 +56,9 @@ Please feel free to point out any mistakes and suggestions.
     
     4-1: random,our own modules,Coin toss program
     
-    4-2: Lists ,offsets,append,extend,remove,pop,Banker Roulette program(str.split(","),using choice())
+    4-2: Lists ,offsets,append,extend,remove,pop,Banker Roulette program(made using str.split(","),choice())
     
-    4-3: IndexError,Dirty dozen(nested lists),Treasure Map exercise
+    4-3: IndexError,Dirty dozen program(made using nested lists),Treasure Map program
     
     4-4: Project:Rock,Paper,Scissors
     
