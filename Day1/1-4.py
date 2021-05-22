@@ -1,10 +1,10 @@
 #switch values of variables
 a=input("a:")
 b=input("b:")
-#direct swap using 2 variables(more pythonic)
+#METHOD 1:direct swap using 2 variables(more pythonic)
 #a,b=b,a
 
-#swapping using third temporary variable
+#METHOD 2:swapping using third temporary variable
 c=a
 a=b
 b=c 
