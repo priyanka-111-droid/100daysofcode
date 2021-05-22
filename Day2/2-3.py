@@ -1,8 +1,8 @@
 #NUMBER MANIPULATION
-#round,//,shorthand +=,-=,*=,/= 
+#round,//(using this instead of / for division gives integer answer),shorthand +=,-=,*=,/= 
 #F STRINGS
 #Why do u need f strings?
-#without it,printing concat of string and different datatype is painful
+#without it,printing concat of string and different datatype is painful and we would have to do type conversion every time.
 #print("Your score is"+str(score))
 
 ###########<<<<<PROGRAM>>>>#########
