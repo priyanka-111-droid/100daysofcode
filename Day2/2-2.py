@@ -4,7 +4,7 @@
 # **---->Exponents(E) have 2nd highest precedence
 # *,/(division-->float answer)-->Multiplication(M) and Division(D) have next highest precedence.While choosing between M and D ,go left to right(LR)
 # +,- --->Addition(A),Subtraction(S) have last precedence.While choosing between A and S,go left to right (LR)
-#print(3*(3+3)/3-3)
+#print(3*(3+3)/3-3) gives 3
 
 
 ########<<<<<PROG>>>>###########
