@@ -58,7 +58,7 @@ Please feel free to point out any mistakes and suggestions.
     
     4-1: random,our own modules,Coin toss program
     
-    4-2: Lists ,offsets,append,extend,remove,pop,Banker Roulette program(made using str.split(","),random.choice())
+    4-2: Lists ,offsets(index),append,extend,remove,pop,Banker Roulette program(made using str.split(","),random.choice())
     
     4-3: IndexError,Dirty dozen program(made using nested lists),Treasure Map program
     
