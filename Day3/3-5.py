@@ -1,7 +1,14 @@
 #logical operators (or ,and ,not)
-
 #####<<<<PROGRAM>>>#######
-'''love calculator'''
+'''love calculator
+1.Combine your name and crush's name
+2.Take the word "TRUE" and count number of times each letter in "TRUE" occurs in your combined name
+3.Take the word "LOVE" and count number of times each letter in "LOVE" occurs in your combined name
+4.Now combine (NOT ADD) values obtained in steps 2 and 3 into a two digit number
+5.If answer is <=10 or >=90,you are perfect for each other
+6.If answer is >=40 and <=50,you are alright for each other
+7.Else just print the answer
+'''
 
 print("Welcome to the love calculator!")
 name1=input("What is your name?")
@@ -10,8 +17,9 @@ lis1=['t','r','u','e']
 lis2=['l','o','v','e']
 
 count1=count2=0;
-#using count() function
+#combining both your name and crush's name
 fullname=name1.lower()+name2.lower()
+#using count() function
 for x in lis1:
     count1+=fullname.count(x)
 for y in lis2:
