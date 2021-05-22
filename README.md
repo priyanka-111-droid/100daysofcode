@@ -4,6 +4,8 @@ Welcome to my 100daysofcode challenge based on Angela Yu's 100 days of code in P
 
 In each day's challenge,inside every exercise done,you can find theory and concepts described in the first part and program implemented below that.
 
+Project covers all concepts done that day
+
 Also included are different ways of implementation and mistakes I made while coding.
 
 Please feel free to point out any mistakes and suggestions.
