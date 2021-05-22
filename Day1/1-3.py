@@ -8,3 +8,7 @@ print(len(input("Please enter your name:")))
 #multi-line comments can be done using triple quoted multiline strings (''' ''') used to usually describe what  program does in the beginning but be sure to indent it properly
 '''This is a multi-line comment'''
 """This is also a multi-line comment"""
+'''
+This works 
+as well
+'''
