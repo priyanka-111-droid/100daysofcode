@@ -1,5 +1,7 @@
-#logical operators
-#love calculator
+#logical operators (or ,and ,not)
+
+#####<<<<PROGRAM>>>#######
+'''love calculator'''
 
 print("Welcome to the love calculator!")
 name1=input("What is your name?")
