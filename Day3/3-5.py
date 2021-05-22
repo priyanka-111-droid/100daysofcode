@@ -41,7 +41,7 @@ lis1=['t','r','u','e']
 lis2=['l','o','v','e']
 
 count1=count2=0;
-#combining both your name and crush's name
+#combining both your name and crush's name after converting them to lower case
 fullname=name1.lower()+name2.lower()
 #using count() function
 for x in lis1:
