@@ -1,15 +1,15 @@
 #NUMBER MANIPULATION
-#round,//,shorthand +=
+#round,//,shorthand +=,-=,*=,/= 
 #F STRINGS
 #Why do u need f strings?
-#without it,printing concat of string and diff datatype is painful
+#without it,printing concat of string and different datatype is painful
 #print("Your score is"+str(score))
 
-###########<<<<<PROGRAM>>>>#######
+###########<<<<<PROGRAM>>>>#########
 ''' 
 Life in weeks-
 How many days,weeks,months till we reach 90 years of age
-and round result
+and round your  result
 '''
 age=input("What is your current age?")
 yrs=90-int(age)
