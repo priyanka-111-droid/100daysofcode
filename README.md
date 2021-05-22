@@ -58,11 +58,28 @@ Please feel free to point out any mistakes and suggestions.
     
     4-1: random,our own modules,Coin toss program
     
-    4-2: Lists ,offsets,append,extend,remove,pop,Banker Roulette program(made using str.split(","),choice())
+    4-2: Lists ,offsets,append,extend,remove,pop,Banker Roulette program(made using str.split(","),random.choice())
     
     4-3: IndexError,Dirty dozen program(made using nested lists),Treasure Map program
     
     4-4: Project:Rock,Paper,Scissors
+
+## DAY 5:  22/05/21
+
+    OVERALL CONCEPTS: Loops
+
+    5-1: for loops and lists,Average Height program(used loops,sum())
+
+    5-2: Maximum Height program(for loop in lists)
+
+    5-3: Sum of Even numbers program(for loop with range)
+
+    5-4: Fizzbuzz program (nice challenge)
+
+    5-5: Project:Pypassword generator(used random.shuffle())
+
+    
+
     
     
     
