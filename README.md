@@ -32,9 +32,9 @@ Please feel free to point out any mistakes and suggestions.
     
     2-2: Mathematical operator(PEMDASLR),BMI calculator program
     
-    2-3: Number manipulation(round,//,shorthand),f-string,Life in weeks program
+    2-3: Number manipulation(//,shorthand),f-string,Life in weeks program
     
-    2-4: Project:Tip calculator
+    2-4: Project:Tip calculator(also used round() function)
 
 ## DAY 3:  18/05/21
 
