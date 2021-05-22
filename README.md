@@ -30,7 +30,7 @@ Please feel free to point out any mistakes and suggestions.
     
     2-1: Datatypes(str subscript),type,type conversion
     
-    2-2: Mathematical operator(PEMDASLR),BMI calculator program
+    2-2: Mathematical operators(PEMDASLR),BMI calculator program
     
     2-3: Number manipulation(//,shorthand),f-string,Life in weeks program
     
@@ -40,7 +40,7 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL CONCEPTS: Conditional statements,logical operator,code blocks,scope
     
-    3-1: Control flow with if else(conditional statement),Odd or Even program
+    3-1: Control flow with if else(conditional statement),Comparison operators,Odd or Even program
     
     3-2: Nested if and elif,BMI calc 2.0 program
     
