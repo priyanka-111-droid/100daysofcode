@@ -12,7 +12,7 @@ for n in range(0,len(student_scores)):
 
 max=0 #let max be 0
 for n in student_scores: 
-    if(n>max):   #if score in list is more than max
-        max=n    #assignment from right to left so that score in list is now assigned to max
+    if(n>max):   #if a score in the  list is more than max
+        max=n    #assignment operator(=) works from right to left so that score in list(n) is now assigned to max
 
 print(max)
