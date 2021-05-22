@@ -40,7 +40,7 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL CONCEPTS: Conditional statements,logical operator,code blocks,scope
     
-    3-1: Control flow with if else(cond statement) and conditional operators,Odd or Even program
+    3-1: Control flow with if else(conditional statement) and conditional operators,Odd or Even program
     
     3-2: Nested if and elif,BMI calc 2.0 program
     
@@ -48,17 +48,17 @@ Please feel free to point out any mistakes and suggestions.
     
     3-4: Multiple if statements,Pizza order program
     
-    3-5: Logical operators,Love calculator program(made using lists,count(),lower())
+    3-5: Logical operators,Love calculator program(also used lists,count(),lower())
     
     3-6: Project:Treasure island
 
 ## DAY 4:  20/05/21
 
-    OVERALL CONCEPTS: Randomization and lists
+    OVERALL CONCEPTS: Randomization,lists,nested lists
     
     4-1: random,our own modules,Coin toss program
     
-    4-2: Lists ,offsets(index),append,extend,remove,pop,Banker Roulette program(made using str.split(","),random.choice())
+    4-2: Lists ,offsets(index),append,extend,remove,pop,Banker Roulette program(also str.split(","),random.choice())
     
     4-3: IndexError,Dirty dozen program(made using nested lists),Treasure Map program
     
@@ -70,13 +70,13 @@ Please feel free to point out any mistakes and suggestions.
 
     5-1: for loops and lists,Average Height program(used loops,sum())
 
-    5-2: Maximum Height program(for loop in lists)
+    5-2: for loop and lists,Maximum Height program
 
-    5-3: Sum of Even numbers program(for loop with range)
+    5-3: for loop with range function,Sum of Even numbers program
 
     5-4: Fizzbuzz program (nice challenge)
 
-    5-5: Project:Pypassword generator(used random.shuffle())
+    5-5: Project:Pypassword generator(also used random.shuffle())
 
     
 
