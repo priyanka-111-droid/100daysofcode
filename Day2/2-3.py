@@ -1,5 +1,4 @@
 #NUMBER MANIPULATION
-#round
 #//(using this instead of / for division gives integer answer)
 #shorthand +=,-=,*=,/= means for example x=x+2 is same as x+=2 
 #F STRINGS
