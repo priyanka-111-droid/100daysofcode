@@ -1,4 +1,7 @@
 #Day 1:project band name generator
+'''
+Greet user,ask user for city they grew up in,name of pet and combine city and pet name to get band name
+'''
 
 #1. Create a greeting for your program
 print("Welcome to the Band Name Generator!")

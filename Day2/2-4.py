@@ -1,4 +1,8 @@
 #Day 2:Project-Tip calculator
+'''
+Input bill,percentage tip(10,12,15) and people to split the bill
+Then round off and format up to 2 decimal places
+'''
 
 print("Welcome to the tip calculator")
 
