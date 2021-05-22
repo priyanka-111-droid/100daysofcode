@@ -6,7 +6,8 @@
 # +,- --->Addition(A),Subtraction(S) have last precedence.While choosing between A and S,go left to right (LR)
 #print(3*(3+3)/3-3) gives 3
 
-
+#But remember : Assignment operator(=) assigns values from right to left
+#example x=2 means value of 2 on right is stored in variable x on left
 ########<<<<<PROG>>>>###########
 ''' BMI calculator 
     BMI=weight(kg)/height^2(m)
