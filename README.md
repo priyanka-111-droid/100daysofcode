@@ -40,7 +40,7 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL CONCEPTS: Conditional statements,logical operator,code blocks,scope
     
-    3-1: Control flow with if else(conditional statement) and conditional operators,Odd or Even program
+    3-1: Control flow with if else(conditional statement),Odd or Even program
     
     3-2: Nested if and elif,BMI calc 2.0 program
     
