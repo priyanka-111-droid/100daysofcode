@@ -7,7 +7,8 @@ nested_list=[fruits,vegetables]
 ########<<<<<PROGRAM>>>#########
 '''
 Treasure Map:
-input column number,row number and update that coordinate with "X" 
+given a 3x3 grid ,
+input column number,row number and update that coordinate with "X" to denote presence of treasure
 '''
 row1=["O","O","O"]
 row2=["O","O","O"]
