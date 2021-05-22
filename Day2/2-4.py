@@ -8,16 +8,16 @@ perc=input("What percentage tip would you like to give?10,12,or 15?")
 
 ppl=input("How many people to split the bill?")
 
-#everything into float but take ppl as int
+#everything into float but take number of ppl as int
+#total is bill + percentage of bill and this is divided among ppl
 total=(float(bill)+(float(perc)/100)*float(bill))/int(ppl)
 
 
-#rounding by f string using round will give 33.6 not 33.60
-
-print(f"Each person should pay:${round(total,3)}") 
+#rounding by f string using round will give 33.6 NOT 33.60
+print(f"Each person should pay:${round(total,2)}") 
 
 #if we need 33.60,we need rounding AND formatting
-#rounding and formatting using f string ONLY...
+#rounding and formatting using ONLY f string ...
 print(f"Each person should pay :${total:.2f}")
 
 
