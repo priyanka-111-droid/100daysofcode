@@ -64,6 +64,8 @@ Please feel free to point out any mistakes and suggestions.
     
     4-4: Project:Rock,Paper,Scissors
 
+    my_mod:Creating our own module with value of pi to be used in 4-1.
+
 ## DAY 5:  22/05/21
 
     OVERALL CONCEPTS: Loops
