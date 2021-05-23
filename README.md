@@ -80,6 +80,14 @@ Please feel free to point out any mistakes and suggestions.
 
     5-5: Project:Pypassword generator(also used random.shuffle())
 
+## DAY 6: 23/05/21
+
+    OVERALL: functions,code blocks,indentations,while loops
+
+    6-1: Functions,Practice(5 tasks),Reeborg Hurdles challenge
+
+    
+
     
 
     
