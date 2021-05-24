@@ -9,7 +9,7 @@ What you need to know:
 2.The condition at_goal() and its negation.
 3.How to use a while loop.
 
-Please type the above code in Reeborg editor!
+Please type the below code in Reeborg editor!
 '''
 def turn_right():
     turn_left()
