@@ -84,7 +84,27 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL: functions,code blocks,indentations,while loops
 
-    6-1: Functions,Practice(5 tasks),Reeborg Hurdles challenge
+    6-1.md: Functions,Practice(5 tasks),Reeborg Hurdles challenge 1 link
+
+    6-1.py: Reeborg Hurdles Challenge 1 solution
+
+    6-2.md: Indentation,while loop,while vs for loop,Reeborg Hurdles Challenge 2 link
+
+    6-2.py:Reeborg Hurdles Challenge 2 solution
+
+    6-3.md:Reeborg Hurdles Challenge 3 link
+
+    6-3.py: Reeborg Hurdles Challenge 3 solution
+
+    6-4.md: Reeborg Hurdles Challenge 4 link(variable heights)[TOUGH]
+
+    6-4.py: Reeborg Hurdles Challenge 4 solution
+
+    6-5.md: Project: Reeborg Lost in Maze link[TOUGH]
+
+    6-5.py: Project: Reeborg Maze solution
+
+
 
     
 
