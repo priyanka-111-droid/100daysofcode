@@ -4,7 +4,7 @@ To jump hurdles and carry Reborg from (x,y)=(1,1) to (13,1)
 Basic level - use move() and turn_left()
 Advanced level-define function named jump() and use that
 
-#Please write this code in Reeborg's world text editor !
+#Please write the code below in Reeborg's world text editor !
 '''
 def turn_right():
     turn_left()
