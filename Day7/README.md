@@ -46,7 +46,7 @@ Keeping track of player's lives.If guess is NOT a letter in the chosen word,live
 
 Fork the repl from [here](https://replit.com/@appbrewery/Day-7-Hangman-4-Start)
 
-For solution click 7-4.py
+For solution click [7-4.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day7/7-4.py)
 
 **Step 5**:
 
