@@ -12,7 +12,7 @@ Please feel free to point out any mistakes and suggestions.
 
 ## DAY 1:  16/05/21
 
-    OVERALL CONCEPTS: printing,debugging,string manipulation,commenting(ctrl+/ and ctrl+z),input,variables
+    OVERALL CONCEPTS: printing,debugging,string manipulation,commenting(ctrl+/ to comment out block of code in vscode and ctrl+z to uncomment),input,variables
 
     1-1: print,single and double quotes
 
