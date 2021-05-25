@@ -104,6 +104,24 @@ Please feel free to point out any mistakes and suggestions.
 
     6-5.py: Project: Reeborg Maze solution
 
+## DAY 7: 25/05/21
+
+    OVERALL:Hangman game(uses for and while loops,if-else,lists,string,range())
+
+    README.md:Has description of each step,repls to fork 
+
+    7-1:Steps 1[Picking random words,checking answers](used random)
+
+    7-2:Step 2[replacing blanks with guesses](used for loop with range)
+    
+    7-3:Step 3[checking if player has won](used loops,in keyword)
+
+    7-4:Step 4[keeping track of hangman's lives](also used ' '.join(list) to convert list to string)
+
+    7-5:Step 5[Improving user experience](importing modules hangman_words.py and hangman_art.py)
+
+
+
 
 
     
