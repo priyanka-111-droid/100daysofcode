@@ -28,7 +28,7 @@ Fork the repl from [here](https://replit.com/@appbrewery/Day-7-Hangman-2-Start)
 
 For hint click [here](https://developers.google.com/edu/python/lists#range)
 
-For solution click 7-2.py
+For solution click [7-2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day7/7-2.py)
 
 **Step 3**:
 
