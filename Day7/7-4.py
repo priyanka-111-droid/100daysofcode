@@ -1,6 +1,6 @@
 ###<<<STEP 4>>>###
 '''
-keeping track of hangman's lives,using ascii art
+keeping track of player's lives,using ascii art
 '''
 import random
 

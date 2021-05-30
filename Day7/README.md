@@ -12,7 +12,7 @@ Solution:
 
 **Step 1**:
 
-Pick a random word and check answers
+Pick a random word,ask user to guess a letter and see if letter user guessed is in random word.
 
 Fork the repl from [here](https://replit.com/@appbrewery/Day-7-Hangman-1-Start)
 
