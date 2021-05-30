@@ -234,7 +234,7 @@ e.g. Type 'yes' if you want to go again. Otherwise type 'no'.
 
   Hint: Try creating a while loop that continues to execute the program if the user types 'yes'. 
 
-Solution: 8-6.py
+Solution: [8-6.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day8/8-6.py)
 
 
 
