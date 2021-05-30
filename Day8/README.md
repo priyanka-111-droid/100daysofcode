@@ -98,7 +98,7 @@ https://stackoverflow.com/questions/2356501/how-do-you-round-up-a-number-in-pyth
 
 * Make sure you name your function/parameters the same as when it's called on the last line of code.
 
-Solution: 8-1.py 
+Solution: [8-1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day8/8-1.py)
 
 ## 2.Prime Number Checker
 
