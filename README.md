@@ -12,7 +12,7 @@ Please feel free to point out any mistakes and suggestions.
 
 ## DAY 1:  16/05/21
 
-    OVERALL CONCEPTS: printing,debugging,string manipulation,commenting(ctrl+/ and ctrl+z),input,variables
+    OVERALL CONCEPTS: printing,debugging,string manipulation,comment and uncomment(ctrl+/),input,variables
 
     1-1: print,single and double quotes
 
@@ -119,6 +119,27 @@ Please feel free to point out any mistakes and suggestions.
     7-4:Step 4[keeping track of hangman's lives](also used ' '.join(list) to convert list to string)
 
     7-5:Step 5[Improving user experience](importing modules hangman_words.py and hangman_art.py)
+
+## DAY 8: 30/05/21
+
+    OVERALL:Functions with inputs-Arguments and parameters,Caesar Cipher
+
+    README.md:Has theory of functions and links to exercises and Caesar cipher 
+
+    8-1.py:Paint Area Exercise(also used math.ceil())
+
+    8-2.py:Prime Number Checker(count,boolean flag)
+
+    8-3.py:Project:Caesar Cipher-part 1(also used for loop through string,index(),chr(),ord())
+
+    8-4.py:Project:Caesar Cipher-part 2
+
+    8-5.py:Project:Caesar cipher-part 3
+
+    8-6.py:Project:Caesar cipher-part 4
+    
+    
+
 
 
 
