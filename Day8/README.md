@@ -125,7 +125,7 @@ https://stackoverflow.com/questions/4432208/what-is-the-result-of-in-python
 
 * Make sure you name your function/parameters the same as when it's called on the last line of code.
 
-Solution: 8-2.py
+Solution: [8-2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day8/8-2.py)
 
 # Project
 
@@ -169,7 +169,7 @@ https://stackoverflow.com/questions/176918/finding-the-index-of-an-item-in-a-lis
 
 TODO-3: Call the encrypt function and pass in the user inputs. You should be able to test the code and encrypt a message.Use keyword arguments
 
-Solution: 8-3.py
+Solution: [8-3.py]()
 
 ## 2.Caesar cipher-part 2(decode)
 
