@@ -137,6 +137,20 @@ Please feel free to point out any mistakes and suggestions.
     8-5.py:Project:Caesar cipher-part 3
 
     8-6.py:Project:Caesar cipher-part 4
+
+## DAY 9: 02/06/21
+
+    OVERALL:Dictionaries,nesting and secret auction
+
+    README.md: Theory,links to exercises
+
+    9-1.py:The Grading program(using dictionary)
+
+    9-2.py:Travel log(using nested dictionaries in list)
+
+    9-3.py:Project :Secret(blind)auction 
+
+
     
     
 
