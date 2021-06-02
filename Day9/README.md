@@ -137,7 +137,7 @@ If in doubt as to why your code is not doing what you expected, you can always p
 
 At the end of your program, the print statement will show the final student_scores dictionary, do not change this.
 
-Solution: 9-1.py
+Solution: [9-1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day9/9-1.py)
 
 ## 2.Travel log
 
