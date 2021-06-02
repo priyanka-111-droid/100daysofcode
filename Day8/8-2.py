@@ -20,7 +20,7 @@ def prime_check(num):
             #if num is divisible by any number,it will not be prime anymore
             is_prime=False  #set flag to false
 
-    if is_prime: #can also be written as is_prime==True
+    if is_prime: #can also be written as if is_prime==True:
         print("It's a prime number.") 
     else:
         print("It's not a prime number.")

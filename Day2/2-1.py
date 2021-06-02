@@ -14,7 +14,7 @@ print(123+456)
 num_char=len(input("What is your name"))
 print(type(num_char))
 
-#TYPE CONVERSION
+#TYPE CONVERSION/TYPE CASTING
 new_num_char=str(num_char)
 print(type(new_num_char))
 

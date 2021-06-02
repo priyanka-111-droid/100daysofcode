@@ -26,9 +26,9 @@ Please feel free to point out any mistakes and suggestions.
     
 ## DAY 2:  17/05/21
 
-    OVERALL CONCEPTS: Data types,type conversion,operators,number manipulation,f-strings
+    OVERALL CONCEPTS: Data types,type conversion/type casting,operators,number manipulation,f-strings
     
-    2-1: Datatypes(str subscript),type,type conversion
+    2-1: Datatypes(str subscript),type,type conversion/type casting
     
     2-2: Mathematical operators(PEMDASLR),BMI calculator program
     
