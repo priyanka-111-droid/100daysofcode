@@ -164,6 +164,8 @@ The inputs for the function are positional arguments. The order is very importan
 
 Feel free to choose your own parameter names.
 
+Solution:[9-2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day9/9-2.py)
+
 # Project
 
 ## Secret Auction program
