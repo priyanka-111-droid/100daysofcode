@@ -1,6 +1,6 @@
 # Dictionaries
 
-## 1. Dictionaries are created in the form of key : value
+## 1. Dictionaries are created in the form of  key1 : value1, key2:value2,etc.
 
         programming_dictionary={
         "Bug":"Error in the program that prevents program from running as expected.",
