@@ -150,6 +150,25 @@ Please feel free to point out any mistakes and suggestions.
 
     9-3.py:Project :Secret(blind)auction 
 
+## DAY 10: 04/06/21
+    
+    OVERALL:Functions with outputs,Calculator.
+
+    README.md:links to theory,2 tasks,1 exercise and project
+
+    task1.py:Convert strings to title case
+
+    task2.py:error check and user inputs in task 1
+
+    10-1.py:Days in month
+
+    10-2.py:Project calculator part 1:Using Functions and if else 
+
+    10-3.py:Project calculator part 2:using functions and dictionary
+
+    10-4.py:Project calculator part 3:adding logo and while loops
+
+    
 
     
     
