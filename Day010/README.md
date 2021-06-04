@@ -22,7 +22,7 @@ See [here](https://stackoverflow.com/questions/8347048/how-to-convert-string-to-
 eg.
 MARY SMITH,mary smith,MaRy SmiTH --> Mary Smith
 
-Solution: task1.py
+Solution: [task1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day10/task1.py)
 
 ## Task 2:
 
@@ -36,7 +36,7 @@ In task 1,make the following changes
 
 Hint:Any statement after return,does not get executed.BUT,you can use multiple returns with the help of if else.
 
-Solution: task2.py
+Solution: [task2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day10/task2.py)
 
 # Exercise 
 
@@ -44,11 +44,9 @@ Solution: task2.py
 
 Fork repl from [here](https://replit.com/@appbrewery/day-10-1-exercise)
 
-Solution: 10-1.py
+Solution: [10-1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day10/10-1.py)
 
-# Project:
-
-Calculator 
+# Project:Calculator
 
 ## Part 1:Using Functions and if else 
 
@@ -76,7 +74,7 @@ after performing operation.
 * print final result using f string that shows operation being performed.
 eg. 10.0 + 3.0 =13.0 (this has to be printed on output screen)
 
-Solution:10-2.py
+Solution:[10-2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day10/10-2.py)
 
 ## Part 2:Using functions and dictionaries
 
@@ -90,7 +88,7 @@ Solution:10-2.py
 
 * change f string to print operation correctly.
 
-Solution: 10-3.py
+Solution: [10-3.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day10/10-3.py)
 
 ## Part 3:Adding art.py,using while loops
 
@@ -104,7 +102,7 @@ Solution: 10-3.py
 
 * TODO-5:call function calculator()
 
-Solution: 10-4.py
+Solution: [10-4.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day10/10-4.py)
 
 
 
