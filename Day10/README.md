@@ -36,7 +36,7 @@ In task 1,make the following changes
 
 Hint:Any statement after return,does not get executed.BUT,you can use multiple returns with the help of if else.
 
-Solution: task2.py
+Solution: [task2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day10/task2.py)
 
 # Exercise 
 
