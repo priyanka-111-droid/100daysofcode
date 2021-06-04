@@ -102,7 +102,7 @@ Solution: [10-3.py](https://github.com/priyanka-111-droid/100daysofcode/blob/mai
 
 * TODO-5:call function calculator()
 
-Solution: 10-4.py
+Solution: [10-4.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day10/10-4.py)
 
 
 
