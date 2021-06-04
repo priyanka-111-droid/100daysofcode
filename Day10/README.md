@@ -44,7 +44,7 @@ Solution: [task2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/ma
 
 Fork repl from [here](https://replit.com/@appbrewery/day-10-1-exercise)
 
-Solution: 10-1.py
+Solution: [10-1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day10/10-1.py)
 
 # Project:
 
