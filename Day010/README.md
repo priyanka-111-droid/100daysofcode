@@ -28,7 +28,7 @@ Solution: [task1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/ma
 
 In task 1,make the following changes
 
-* In function,format_name(first_name,last_name) make sure that user does not enter empty first name or last name,if they do,print "You didn't provide valid inputs."
+* In function,format_name(first_name,last_name) make sure that user does not enter empty first name or last name,if they do,return "You didn't provide valid inputs."
 
 * Also make program user defined (user should be able to enter their first name and last name)
 
