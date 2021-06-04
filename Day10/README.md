@@ -46,9 +46,7 @@ Fork repl from [here](https://replit.com/@appbrewery/day-10-1-exercise)
 
 Solution: [10-1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day10/10-1.py)
 
-# Project:
-
-Calculator 
+# Project:Calculator
 
 ## Part 1:Using Functions and if else 
 
@@ -90,7 +88,7 @@ Solution:[10-2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main
 
 * change f string to print operation correctly.
 
-Solution: 10-3.py
+Solution: [10-3.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day10/10-3.py)
 
 ## Part 3:Adding art.py,using while loops
 
