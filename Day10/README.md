@@ -76,7 +76,7 @@ after performing operation.
 * print final result using f string that shows operation being performed.
 eg. 10.0 + 3.0 =13.0 (this has to be printed on output screen)
 
-Solution:10-2.py
+Solution:[10-2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day10/10-2.py)
 
 ## Part 2:Using functions and dictionaries
 
