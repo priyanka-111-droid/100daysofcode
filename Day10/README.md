@@ -22,7 +22,7 @@ See [here](https://stackoverflow.com/questions/8347048/how-to-convert-string-to-
 eg.
 MARY SMITH,mary smith,MaRy SmiTH --> Mary Smith
 
-Solution: task1.py
+Solution: [task1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day10/task1.py)
 
 ## Task 2:
 
