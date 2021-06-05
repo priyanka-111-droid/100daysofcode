@@ -98,7 +98,7 @@ https://stackoverflow.com/questions/2356501/how-do-you-round-up-a-number-in-pyth
 
 * Make sure you name your function/parameters the same as when it's called on the last line of code.
 
-Solution: [8-1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day8/8-1.py)
+Solution: [8-1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day008/8-1.py)
 
 ## 2.Prime Number Checker
 
@@ -125,7 +125,7 @@ https://stackoverflow.com/questions/4432208/what-is-the-result-of-in-python
 
 * Make sure you name your function/parameters the same as when it's called on the last line of code.
 
-Solution: [8-2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day8/8-2.py)
+Solution: [8-2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day008/8-2.py)
 
 # Project
 
@@ -169,7 +169,7 @@ https://stackoverflow.com/questions/176918/finding-the-index-of-an-item-in-a-lis
 
 TODO-3: Call the encrypt function and pass in the user inputs. You should be able to test the code and encrypt a message.Use keyword arguments
 
-Solution: [8-3.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day8/8-3.py)
+Solution: [8-3.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day008/8-3.py)
 
 ## 2.Caesar cipher-part 2(decode)
 
@@ -194,7 +194,7 @@ TODO-3: Check if the user wanted to encrypt or decrypt the message by checking t
  the correct function based on that 'drection' variable. You should be able to test the code to encrypt *AND* 
  decrypt a message.
 
-Solution: [8-4.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day8/8-4.py)
+Solution: [8-4.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day008/8-4.py)
 
 ## 3.Caesar cipher-part 3(reorganize)
 
@@ -207,7 +207,7 @@ function called caesar().
 
 * TODO-2: Call the caesar() function, passing over the 'text', 'shift' and 'direction' values.
 
-Solution: [8-5.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day8/8-5.py)
+Solution: [8-5.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day008/8-5.py)
 
 ## 4.Caesar cipher-part 4(improve user experience)
 
@@ -234,7 +234,7 @@ e.g. Type 'yes' if you want to go again. Otherwise type 'no'.
 
   Hint: Try creating a while loop that continues to execute the program if the user types 'yes'. 
 
-Solution: [8-6.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day8/8-6.py)
+Solution: [8-6.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day008/8-6.py)
 
 
 
