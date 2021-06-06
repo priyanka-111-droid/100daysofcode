@@ -168,6 +168,12 @@ Please feel free to point out any mistakes and suggestions.
 
     10-4.py:Project calculator part 3:adding logo and while loops
 
+## DAY 11: 05/06/21
+
+    OVERALL:Blackjack Capstone Project
+
+    README.md:Describes project and gives required links
+
     
 
     
