@@ -32,7 +32,7 @@ Then try out the completed Blackjack project here:
 
 ## Solution
 
-1.Blackjack using difficulty expert- 11-1.py
+1.Blackjack using difficulty expert- [11-1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day011/11-1.py)
 
 2.Blackjack 21 Casino(tougher) - 11-2.py
 
