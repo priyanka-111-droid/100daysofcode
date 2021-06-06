@@ -60,7 +60,7 @@ def blackjack():
             if(sum(user_cards))>21:
                 print(f"Your final hand:{user_cards},final score:{sum(user_cards)}")
                 hidden=dealer_finalhand()
-                print(hidden)
+                #print(hidden)
                 all_dealer_cards.append(hidden)
                 while(sum(all_dealer_cards)<17):
                     till_seventeen=dealer_finalhand()
