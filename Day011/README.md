@@ -34,7 +34,7 @@ Then try out the completed Blackjack project here:
 
 1.Blackjack using difficulty expert- [11-1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day011/11-1.py)
 
-2.Blackjack 21 Casino(tougher) - 11-2.py
+2.Blackjack 21 Casino(tougher) - [11-2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day011/11-2.py)
 
 * click [here](https://bicyclecards.com/how-to-play/blackjack/) to find out about blackjack game
 * click  [here](https://www.businessinsider.in/finance/you-better-know-these-basic-rules-before-you-even-think-of-playing-blackjack/articleshow/37197646.cms) to find out about bets involved
