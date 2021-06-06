@@ -54,14 +54,14 @@ def natural(user_cards,all_dealer_cards,bank,bet):
             print("Its a tie..you and dealer have blackjack,you get back your bet..")
             bank= bank + bet 
             print(f"Your bank now has:${bank}")
-            return 0
+            return bank
         else:
             print(f"Your final hand:{user_cards},final score:{total(user_cards)}")
             print(f"Computer final hand:{all_dealer_cards},final score:{total(all_dealer_cards)}")
             print("Congrats,you won a natural 21!")
             bank=bank+bet+1.5*bet 
             print(f"Your bank now has:${bank}")
-            return 1
+            return bank
     else:
         return -1
 
@@ -110,7 +110,8 @@ def blackjack(bank,bet):
     dealer_card=dealer()
     all_dealer_cards.append(dealer_card)
     print(f"Computer's first card:{all_dealer_cards}")
-    if (natural(user_cards,all_dealer_cards,bank,bet)==-1):
+    value=natural(user_cards,all_dealer_cards,bank,bet)
+    if (value==-1):
         terminate=False
         while not terminate:
             if(input("Type 'y' to get another card,type 'n' to pass:")=='n'):
@@ -140,8 +141,11 @@ def blackjack(bank,bet):
                     terminate=True
 
         bank=compare(user_cards,all_dealer_cards,bank,bet)
+    else:
+        bank=value 
 
-        return bank 
+
+    return bank 
 
 
 
