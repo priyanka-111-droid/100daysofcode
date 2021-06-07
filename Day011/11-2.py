@@ -12,15 +12,14 @@ def total(sample):
         if(x=="A"):
             s=s+11
         elif(x=="K" or x=="Q" or x=="J"):
-             s=s+10
+            s=s+10
         else:
             s=s+int(x)
 
-        if(s>21 and "A" in sample):
-            s=s-10
+    if(s>21 and "A" in sample):
+         s=s-10    
 
     return(s)
-
 
 def dealer():
     '''computer is the dealer'''
@@ -140,12 +139,12 @@ def blackjack(bank,bet):
                     print(f"Computer final hand:{all_dealer_cards},final score:{total(all_dealer_cards)}")
                     terminate=True
 
-        bank=compare(user_cards,all_dealer_cards,bank,bet)
+        bank1=compare(user_cards,all_dealer_cards,bank,bet)
     else:
-        bank=value 
+        bank1=value 
 
 
-    return bank 
+    return bank1
 
 
 
@@ -166,13 +165,13 @@ def welcome():
                 bet=int(input("Please bet amount less than or equal to your bank amount :"))
 
             bank=bank-bet 
-            bank1=blackjack(bank,bet) 
+            bank2=blackjack(bank,bet) 
             ans=input("\npress y to continue,n to end game :\n")
             if(ans=='n'):
                 print("Thank you for playing!")
                 should_end=True
             elif(ans=='y'):
-                bank=bank1 
+                bank=bank2 
 
         else:
             answer=input("Sorry your bank has no cash..Press y if you wish to recharge or n to quit :")
