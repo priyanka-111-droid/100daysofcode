@@ -70,9 +70,12 @@ Hint 14: Ask the user if they want to restart the game. If they answer yes, clea
 
 1.Blackjack using difficulty expert- [11-1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day011/11-1.py)
 
-2.Blackjack 21 Casino(tougher than 11-1) - [11-2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day011/11-2.py)
+2.Blackjack 21 Casino(tougher than 11-1,used real cards and added bets) - [11-2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day011/11-2.py)
 
-* click [here](https://bicyclecards.com/how-to-play/blackjack/) to find out about blackjack game
-* click  [here](https://www.businessinsider.in/finance/you-better-know-these-basic-rules-before-you-even-think-of-playing-blackjack/articleshow/37197646.cms) to find out about bets involved
+Hints for 11-2:
+
+* click [here](https://bicyclecards.com/how-to-play/blackjack/) to find out rules about blackjack game
+* click [here](https://www.quora.com/When-is-an-ace-considered-as-1-or-11-in-Blackjack) to find out whether to take ace as 11 or 1 and how to find total if real cards are used.
+* click  [here](https://www.businessinsider.in/finance/you-better-know-these-basic-rules-before-you-even-think-of-playing-blackjack/articleshow/37197646.cms) to find out about bets involved in blackjack 
 
 
