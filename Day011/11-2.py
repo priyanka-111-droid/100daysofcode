@@ -67,7 +67,10 @@ def natural(user_cards,all_dealer_cards,bank,bet):
 
 
 def compare(user_cards,all_dealer_cards,bank,bet):
-    if(total(user_cards)==21):
+    if(total(all_dealer_cards)==total(user_cards)):
+        print("Its a tie..you get back your bet..")
+        bank=bank+bet 
+    elif(total(user_cards)==21):
         print("You win with a blackjack!")
         bank=bank+bet+1.5*bet
     elif(total(all_dealer_cards)==21):
@@ -81,9 +84,6 @@ def compare(user_cards,all_dealer_cards,bank,bet):
     else:
         if(total(all_dealer_cards)>total(user_cards)):
             print("You loose")
-        elif(total(all_dealer_cards)==total(user_cards)):
-            print("Its a tie..you and dealer have blackjack,you get back your bet..")
-            bank=bank+bet 
         else:
             print("You win!")
             bank=bank+bet*2 
