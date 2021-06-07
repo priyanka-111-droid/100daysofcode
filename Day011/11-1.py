@@ -20,7 +20,9 @@ def dealer_finalhand():
     return hidden
 
 def compare(user_cards,all_dealer_cards):
-    if(sum(user_cards)==21):
+    if(sum(user_cards)==sum(all_dealer_cards)):
+        print("Its a tie....")
+    elif(sum(user_cards)==21):
         print("You win with a blackjack!")
     elif(sum(all_dealer_cards)==21):
         print("You loose,opponent wins with blackjack...")
