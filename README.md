@@ -174,7 +174,25 @@ Please feel free to point out any mistakes and suggestions.
 
     README.md:Describes project and gives required links
 
+## DAY 12: 06/06/21
+
+    OVERALL:Local and Global Scope,modifying global variable,constants and global scope
+
+    12-1.py:Local and Global Scope,examples
+
+    12-2.py:Block scope in python?,two examples
+
+    12-3.py:How to modify global variable?
+
+    12-4.py:Python constants and global scope
+
+    12-5.py:Project:Number Guessing Game
     
+    
+* for 12-5.py,create your ascii art logo from [here](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+
+
+
 
     
     
