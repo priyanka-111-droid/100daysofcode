@@ -15,7 +15,7 @@
 
 ###<<SOLUTION>>###
 
-year = (input("Which year do you want to check?"))
+year = int(input("Which year do you want to check?"))
 #print(type(year))
 if year % 4 == 0:
   if year % 100 == 0:
