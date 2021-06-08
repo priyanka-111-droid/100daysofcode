@@ -10,7 +10,7 @@ Also included are different ways of implementation and mistakes I made while cod
 
 Please feel free to point out any mistakes and suggestions.
 
-## DAY 1:  16/05/21
+## [DAY 1 : 16/05/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day001)
 
     OVERALL CONCEPTS: printing,debugging,string manipulation,comment and uncomment(ctrl+/),input,variables
 
@@ -24,7 +24,7 @@ Please feel free to point out any mistakes and suggestions.
 
     1-5: Project:band name generator
     
-## DAY 2:  17/05/21
+## [DAY 2:  17/05/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day002)
 
     OVERALL CONCEPTS: Data types,type conversion/type casting,operators,number manipulation,f-strings
     
@@ -36,7 +36,7 @@ Please feel free to point out any mistakes and suggestions.
     
     2-4: Project:Tip calculator(also used round() function)
 
-## DAY 3:  18/05/21
+## [DAY 3:  18/05/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day003)
 
     OVERALL CONCEPTS: Conditional statements,logical operator,code blocks,scope
     
@@ -52,7 +52,7 @@ Please feel free to point out any mistakes and suggestions.
     
     3-6: Project:Treasure island
 
-## DAY 4:  20/05/21
+## [DAY 4:  20/05/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day004)
 
     OVERALL CONCEPTS: Randomization,lists,nested lists
     
@@ -66,7 +66,7 @@ Please feel free to point out any mistakes and suggestions.
 
     my_mod:Creating our own module with value of pi to be used in 4-1.
 
-## DAY 5:  22/05/21
+## [DAY 5:  22/05/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day005)
 
     OVERALL CONCEPTS: Loops
 
@@ -80,7 +80,7 @@ Please feel free to point out any mistakes and suggestions.
 
     5-5: Project:Pypassword generator(also used random.shuffle())
 
-## DAY 6: 23/05/21
+## [DAY 6: 23/05/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day006)
 
     OVERALL: functions,code blocks,indentations,while loops
 
@@ -104,7 +104,7 @@ Please feel free to point out any mistakes and suggestions.
 
     6-5.py: Project: Reeborg Maze solution
 
-## DAY 7: 25/05/21
+## [DAY 7: 25/05/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day007)
 
     OVERALL:Hangman game(uses for and while loops,if-else,lists,string,range())
 
@@ -120,7 +120,7 @@ Please feel free to point out any mistakes and suggestions.
 
     7-5:Step 5[Improving user experience](importing modules hangman_words.py and hangman_art.py)
 
-## DAY 8: 30/05/21
+## [DAY 8: 30/05/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day008)
 
     OVERALL:Functions with inputs-Arguments and parameters,Caesar Cipher
 
@@ -138,7 +138,7 @@ Please feel free to point out any mistakes and suggestions.
 
     8-6.py:Project:Caesar cipher-part 4
 
-## DAY 9: 02/06/21
+## [DAY 9: 02/06/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day009)
 
     OVERALL:Dictionaries,nesting and secret auction
 
@@ -150,7 +150,7 @@ Please feel free to point out any mistakes and suggestions.
 
     9-3.py:Project :Secret(blind)auction 
 
-## DAY 10: 04/06/21
+## [DAY 10: 04/06/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day010)
     
     OVERALL:Functions with outputs,Calculator.
 
@@ -168,13 +168,17 @@ Please feel free to point out any mistakes and suggestions.
 
     10-4.py:Project calculator part 3:adding logo and while loops
 
-## DAY 11: 05/06/21
+## [DAY 11: 05/06/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day011)
 
     OVERALL:Blackjack Capstone Project
 
     README.md:Describes project and gives required links
 
-## DAY 12: 06/06/21
+    11-1.py:Blackjack project
+
+    11-2.py:Blackjack casino(tougher than 11-1)
+
+## [DAY 12: 06/06/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day012)
 
     OVERALL:Local and Global Scope,modifying global variable,constants and global scope
 
@@ -191,8 +195,11 @@ Please feel free to point out any mistakes and suggestions.
     
 * for 12-5.py,create your ascii art logo from [here](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 
+## [DAY 13: 07/06/21]
 
+    OVERALL:Debugging,how to find and fix errors in code
 
+    README.md:How to get rid of these errors?
 
     
     
