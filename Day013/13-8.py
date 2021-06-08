@@ -19,4 +19,4 @@ else:
   
 #1.Even before running code,editor gives red underline
 #2.Run code once,we get invalid syntax error 
-#3.line 14- use == instead of = as we are checking condition
+#3.in if statement, use == instead of = as we are checking condition
