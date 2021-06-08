@@ -29,6 +29,6 @@ for number in range(1, 101):
     print(number)
 
 
-#1.line 19,should be 'and' instead of 'or'
+#1.first if in for loop should have 'and' instead of 'or'
 #2.elifs instead of ifs
 #3.print(number) not print([number])
