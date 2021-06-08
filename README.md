@@ -195,12 +195,11 @@ Please feel free to point out any mistakes and suggestions.
     
 * for 12-5.py,create your ascii art logo from [here](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 
-## [DAY 13: 07/06/21]
+## [DAY 13: 07/06/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day013)
 
     OVERALL:Debugging,how to find and fix errors in code
 
-    README.md:How to get rid of these errors?
-
+    README.md:Steps to solve errors and 3 exercises to test
     
     
 

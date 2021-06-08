@@ -1,4 +1,5 @@
-# #Print is Your Friend
+# #Step 5:Print is Your Friend
+
 # pages = 0
 # word_per_page = 0
 # pages = int(input("Number of pages: "))
