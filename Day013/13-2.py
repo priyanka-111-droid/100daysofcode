@@ -12,8 +12,6 @@ dice_imgs = ["❶", "❷", "❸", "❹", "❺", "❻"]
 #First we change code so that it will consistently give an error EVERY time we run it
 #dice_num = 6 #this will always give an error
 
-
-
 #Now that error shows up consistently,it is easier to debug
 #Now we know that we get list index out of range if dice_num=6
 #Lists start counting from 0
