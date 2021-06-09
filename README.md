@@ -200,6 +200,14 @@ Please feel free to point out any mistakes and suggestions.
     OVERALL:Debugging,how to find and fix errors in code
 
     README.md:Steps to solve errors and 3 exercises to test
+
+## [DAY 14:08/06/21]
+
+    OVERALL:Higher Lower Game project
+
+    README.md:Describes game,links given
+
+    14-1.py:Higher Lower Game(also added way to clear screen)
     
     
 
