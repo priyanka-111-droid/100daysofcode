@@ -10,7 +10,7 @@
 
 5.Break the code into small steps.Turn the problem into comments, write a comment for each step and then try writing code for that part.
 
-6.Solution:14-1.py
+6.Solution:[14-1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day014/14-1.py)
 
 * Optional:I also added a way to clear screen after each comparision,information can be found [here](https://www.geeksforgeeks.org/clear-screen-python/) 
 
