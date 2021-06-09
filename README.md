@@ -201,7 +201,7 @@ Please feel free to point out any mistakes and suggestions.
 
     README.md:Steps to solve errors and 3 exercises to test
 
-## [DAY 14:08/06/21]
+## [DAY 14:08/06/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day014)
 
     OVERALL:Higher Lower Game project
 
