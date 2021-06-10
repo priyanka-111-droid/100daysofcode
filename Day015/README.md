@@ -10,9 +10,9 @@
 
 * The output should look like [this](https://replit.com/@appbrewery/coffee-machine-final?embed=1&output=1#main.py)
 
-* ### Solution strictly following all requirements: https://replit.com/@appbrewery/coffee-machine-final
+* Solution strictly following all requirements: https://replit.com/@appbrewery/coffee-machine-final
 
-* ### My Solution(slightly modified): 15-1.py
+* My Solution(slightly modified): [15-1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day015/15-1.py)
 
 
 

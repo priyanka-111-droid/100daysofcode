@@ -209,7 +209,7 @@ Please feel free to point out any mistakes and suggestions.
 
     14-1.py:Higher Lower Game(also added way to clear screen)
 
-## [DAY 15:09/06/21]
+## [DAY 15:09/06/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day015)
 
     OVERALL:coffee machine project
 
