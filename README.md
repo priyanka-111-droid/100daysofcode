@@ -208,6 +208,14 @@ Please feel free to point out any mistakes and suggestions.
     README.md:Describes game,links given
 
     14-1.py:Higher Lower Game(also added way to clear screen)
+
+## [DAY 15:09/06/21]
+
+    OVERALL:coffee machine project
+
+    README.md:Description,requirements and official solution links
+
+    15-1.py:Coffee machine project(my version,slightly modified)
     
     
 
