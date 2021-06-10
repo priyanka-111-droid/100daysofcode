@@ -1,9 +1,5 @@
 # Coffee Machine Project
 
-* How to bring up emoji keyboard in Windows 10?Click [here](https://support.microsoft.com/en-us/windows/windows-10-keyboard-tips-and-tricks-588e0b72-0fff-6d3f-aeee-6e5116097942) to find out.
-
-* For mac,click [here](https://support.apple.com/en-gb/guide/mac-help/mchlp1560/mac)
-
 * Get your coffee emoji [here](https://emojipedia.org/hot-beverage/)
 
 * Click [here](https://replit.com/@appbrewery/coffee-machine-start) ,click  code->main.py then copy paste the starting code into your editor.
