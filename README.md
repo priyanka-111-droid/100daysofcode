@@ -213,7 +213,7 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:coffee machine project
 
-    README.md:Description,requirements and official solution links
+    README.md:Description,requirements
 
     15-1.py:Coffee machine project(my version,slightly modified)
     
