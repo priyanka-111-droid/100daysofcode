@@ -24,4 +24,4 @@ Read the [project documentation](https://code.google.com/archive/p/prettytable/w
 
 * Use [project documentation](https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki) 
 
-Solution:16-3.py
+**Solution** :[16-3.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day016/exercises/python_packages/16-3.py)

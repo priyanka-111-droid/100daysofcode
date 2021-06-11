@@ -38,7 +38,7 @@ Hints:
 
 2.https://docs.python.org/3/library/turtle.html#turtle.exitonclick
 
-Solution:16-1.py
+Solution:[16-1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day016/exercises/turtle/16-1.py)
 
 ## 2.Change i)shape of object to turtle and ii)change colour of turtle from black to any colour iii)move it forward by 100 units
 
@@ -53,7 +53,7 @@ Hints:
 4.https://docs.python.org/3/library/turtle.html#turtle.forward
 
 
-Solution:16-2.py
+Solution:[16-2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day016/exercises/turtle/16-2.py)
 
 
 
