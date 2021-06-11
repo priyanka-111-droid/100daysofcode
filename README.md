@@ -219,7 +219,7 @@ Please feel free to point out any mistakes and suggestions.
 
     15-2.py:Coffee machine project(my version,slightly modified)
     
-## [DAY 16:11/06/21]
+## [DAY 16:11/06/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day016)
 
     OVERALL:Object oriented programming(OOP),turtle,packages and Pypi,Cofee machine program with OOP
 
@@ -231,7 +231,7 @@ Please feel free to point out any mistakes and suggestions.
 
     1.Turtle:README.md(describes turtle module)16-1.py,16-2.py
 
-    2.Packages and Pypi:README.md(description),16-3.py
+    2.Packages and PypI:README.md(description),16-3.py
 
     Project:Coffee machine project(15-1) made using OOP
 

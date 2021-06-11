@@ -1,4 +1,4 @@
-# Adding Python Packages and using Pypi 
+# Adding Python Packages and using PypI 
 
 We will use codes written by other developers using packages.By integrating packages,we can practice creating objects and working with attributes and methods.
 
