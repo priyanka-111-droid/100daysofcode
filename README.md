@@ -215,7 +215,9 @@ Please feel free to point out any mistakes and suggestions.
 
     README.md:Description,requirements
 
-    15-1.py:Coffee machine project(my version,slightly modified)
+    15-1.py:Coffee machine original solution
+
+    15-2.py:Coffee machine project(my version,slightly modified)
     
     
 

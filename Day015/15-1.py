@@ -1,11 +1,8 @@
-#starting code already given 
 MENU = {
     "espresso": {
         "ingredients": {
             "water": 50,
-            "milk":0,      #added this line 
             "coffee": 18,
-            
         },
         "cost": 1.5,
     },
@@ -27,152 +24,69 @@ MENU = {
     }
 }
 
+profit = 0
 resources = {
     "water": 300,
     "milk": 200,
     "coffee": 100,
-    "money":5.0,   #I assumed machine already has $5 in it initially...
 }
 
-###################<<<<END OF STARTING CODE>>>>##########################
 
-#to clear screen
-from os import system,name
+def is_resource_sufficient(order_ingredients):
+    """Returns True when order can be made, False if ingredients are insufficient."""
+    for item in order_ingredients:
+        if order_ingredients[item] > resources[item]:
+            print(f"​Sorry there is not enough {item}.")
+            return False
+    return True
 
-def clear():
-  
-    # for windows
-    if name == 'nt':
-        _ = system('cls')
-  
-    # for mac and linux(here, os.name is 'posix')
+
+def process_coins():
+    """Returns the total calculated from coins inserted."""
+    print("Please insert coins.")
+    total = int(input("how many quarters?: ")) * 0.25
+    total += int(input("how many dimes?: ")) * 0.1
+    total += int(input("how many nickles?: ")) * 0.05
+    total += int(input("how many pennies?: ")) * 0.01
+    return total
+
+
+def is_transaction_successful(money_received, drink_cost):
+    """Return True when the payment is accepted, or False if money is insufficient."""
+    if money_received >= drink_cost:
+        change = round(money_received - drink_cost, 2)
+        print(f"Here is ${change} in change.")
+        global profit
+        profit += drink_cost
+        return True
     else:
-        _ = system('clear')
+        print("Sorry that's not enough money. Money refunded.")
+        return False
 
 
-
-user_cash={
-    "quarters":0.25,
-    "dimes":0.10,
-    "nickels":0.05,
-    "pennies":0.01
-}
-
-def res():
-    print("Current resource value:")
-    for x in resources:
-        print(f"{x}:\t{resources[x]}")
-
-def money(user):
-    print("Also,remember quarter is $0.25,dimes $0.10,nickels $0.05 and pennies $0.01\n\n") #not needed in code actually
-    total=0
-    for x in user_cash:
-        coins=int(input(f"Enter number of {x} to be inserted:"))
-        total=total+(user_cash[x]*coins)
+def make_coffee(drink_name, order_ingredients):
+    """Deduct the required ingredients from the resources."""
+    for item in order_ingredients:
+        resources[item] -= order_ingredients[item]
+    print(f"Here is your {drink_name} ☕️. Enjoy!")
 
 
-    if(total<MENU[user]["cost"]):
-        print("Sorry,that's not enough money. Money refunded.")
-        return 0
-       
-    elif(total==MENU[user]["cost"]):
-        #gets added to machine as profit(added to resources)
-        resources["money"]+=total
-        print(f"Here is your {user},enjoy it☕☕☕!\n")
-        return 1
-        
+is_on = True
+
+while is_on:
+    choice = input("​What would you like? (espresso/latte/cappuccino): ")
+    if choice == "off":
+        is_on = False
+    elif choice == "report":
+        print(f"Water: {resources['water']}ml")
+        print(f"Milk: {resources['milk']}ml")
+        print(f"Coffee: {resources['coffee']}g")
+        print(f"Money: ${profit}")
     else:
-        #user has inserted too much money,give back change
-        change=total-MENU[user]["cost"]
-        print(f"Here is ${change:.2f} dollars in change.")
-        print(f"Here is your {user},enjoy it☕☕☕!\n")
-        return 1
-
-
-   
-
-def check_resources(user):
-    coffee_ingre=MENU[user]["ingredients"]
-    for x in coffee_ingre:
-        quantity_needed=(coffee_ingre[x])
-        if(quantity_needed>resources[x]):
-            print(f"Sorry,there is not enough {x}")
-            return 0
-    
-    return 1
-            
-
-
-def deduct_resources(user):
-    if(check_resources(user)==1):    #resources are enough to make coffee required
-        if(money(user)==1):          #user has successfully paid
-            coffee_ingre=MENU[user]["ingredients"]
-            for x in coffee_ingre:
-                quantity_needed=(coffee_ingre[x])
-                resources[x]=resources[x]-quantity_needed     #now reduce resources after making coffee
-
-
-            
-  
-
-
-def order():
-    #Prompt user
-
-    letter=input("What would you like?Press e for espresso,l for latte and c for cappucino :")
-    user=""
-    if(letter=='e'):
-        user="espresso"
-    elif(letter=='l'):
-        user="latte"
-    else:
-        user="cappuccino"
-
-    deduct_resources(user)
-
-    
-
-
-#START OF PROGRAM---->
-def welcome():
-    # Displaying coffee and costs to user:
-    print("\n\nWelcome to the coffee machine!!\n")
-    terminate=False
-    while not terminate:
-        #formatted code using triple quoted string
-
-        num=int(input('''
-Press 1 to order coffee.
-Press 2 to see report of resources available currently in machine
-Press 3 to exit
-Enter your choice:'''))
-        if(num==1):
-            clear()
-            print("\t\t\tWelcome to the coffee machine!!")
-            print("Coffee : \tCost")
-            for x in MENU:
-                coffee_cost=MENU[x]["cost"]       #to get costs of each coffee
-                print(f"{x} : \t${coffee_cost}")   #displaying coffeename,\t for spacing and coffee cost for user
-
-            order()
-        elif(num==2):
-            clear()
-            res()
-        else:
-            print("Thank you,have a nice day!")
-            terminate=True
-
-
-welcome()
-
-
-
-
-
-
-
-
-
-
+        drink = MENU[choice]
+        if is_resource_sufficient(drink["ingredients"]):
+            payment = process_coins()
+            if is_transaction_successful(payment, drink["cost"]):
+                make_coffee(choice, drink["ingredients"])
 
 
