@@ -31,7 +31,7 @@ resources = {
     "water": 300,
     "milk": 200,
     "coffee": 100,
-    "money":5.0,   #I assumed machine already has $5 in it initially...
+    "money":0,   
 }
 
 ###################<<<<END OF STARTING CODE>>>>##########################
@@ -82,7 +82,9 @@ def money(user):
         return 1
         
     else:
-        #user has inserted too much money,give back change
+        #increase money in resources by cost of coffee
+        resources["money"]+=MENU[user]["cost"]
+        #since user has inserted too much money,give back excess as change
         change=total-MENU[user]["cost"]
         print(f"Here is ${change:.2f} dollars in change.")
         print(f"Here is your {user},enjoy it☕☕☕!\n")

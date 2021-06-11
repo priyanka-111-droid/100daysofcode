@@ -219,7 +219,21 @@ Please feel free to point out any mistakes and suggestions.
 
     15-2.py:Coffee machine project(my version,slightly modified)
     
-    
+## [DAY 16:11/06/21]
+
+    OVERALL:Object oriented programming(OOP),turtle,packages and Pypi,Cofee machine program with OOP
+
+    README.md:All links 
+
+    OOPtheory.md:Has basic theory about OOP
+
+    Exercises:
+
+    1.Turtle:README.md(describes turtle module)16-1.py,16-2.py
+
+    2.Packages and Pypi:README.md(description),16-3.py
+
+    Project:Coffee machine project(15-1) made using OOP
 
 
 
