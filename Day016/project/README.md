@@ -17,4 +17,4 @@
 
 * Read the documentation of what the OOP version should look like [here](https://docs.google.com/document/d/e/2PACX-1vTragRHILyj76AvVgpWeOlEaLBXoxPM_43SdEyffIKtOgarj42SoSAsK6LwLAdHQs2qFLGthRZds6ok/pub)
 
-* We  won't use any other file except main.py,we will only work with main.py
+* We  will write code in main.py ONLY.
