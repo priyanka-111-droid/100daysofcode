@@ -30,7 +30,7 @@ does  : (this is called methods)
     def take_payment(amount):
         #add money to restaurant
 
-3.So an object(waiter in this case) is made up of attributes(things it has) and methods(things it does)
+3.**So an object(waiter in this case) is made up of attributes(things it has) and methods(things it does)**
 
 4.Attribute :basically a variable attached to a particular object.
 
@@ -49,7 +49,7 @@ does  : (this is called methods)
         car=CarBlueprint()
 
 * car is object
-* CarBlueprint is class(use first letter capitalized(pascal case) for class name to differentiate from variables)
+* CarBlueprint is class(use first letter of each WORD capitalized(pascal case) for class name to differentiate from variables)
 * set car equal to CarBlueprint and put () at the end to activate construction of object from blueprint.
 
 # How to access object's attributes and methods?

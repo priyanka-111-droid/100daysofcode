@@ -235,6 +235,14 @@ Please feel free to point out any mistakes and suggestions.
 
     Project:Coffee machine project(15-1) made using OOP
 
+## [DAY 17:12/06/21]()
+
+    OVERALL:creating our own class,Quiz project
+
+    theory.md:creating our own class,object,setting attributes,constructors and creating methods of class
+
+    Project:Quiz game
+
 
 
 
