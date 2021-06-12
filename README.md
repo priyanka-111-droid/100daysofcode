@@ -235,7 +235,7 @@ Please feel free to point out any mistakes and suggestions.
 
     Project:Coffee machine project(15-1) made using OOP
 
-## [DAY 17:12/06/21]()
+## [DAY 17:12/06/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day17)
 
     OVERALL:creating our own class,Quiz project
 
