@@ -243,7 +243,27 @@ Please feel free to point out any mistakes and suggestions.
 
     Project:Quiz game
 
+## [DAY 18:13/06/21]
 
+    OVERALL:Turtle graphics,Tuples,importing Modules
+    
+    18-1.py:Making a square
+
+    18-2.py:dashes line
+
+    18-3.py:drawing different shapes
+
+    18-4.py:random walk(used different pen colour,pen width)
+
+    18-5.py:spirograph(used rgb values)
+
+    18-6:Hirstproject
+
+    part1-used colorgram,colorpicker,learnt about Tuples
+
+    part 2-used turtle colormode
+    
+    
 
 
 

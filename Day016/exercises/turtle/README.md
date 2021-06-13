@@ -17,6 +17,13 @@ Can also do this:
     #turtle_object is new object created from Turtle class
     turtle_object=Turtle()
 
+or this:
+
+    import turtle as t
+    turtle_object=t.Turtle()
+
+
+
 # Exercises:
 Use turtle [documentation](https://docs.python.org/3/library/turtle.html) for all references 
 
