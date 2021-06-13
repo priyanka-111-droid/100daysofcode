@@ -263,6 +263,17 @@ Please feel free to point out any mistakes and suggestions.
 
     part 2-used turtle colormode
 
+## [DAY 19:13/06/21]
+
+    OVERALL:More Turtle graphics,Event listeners,state and multiple instances
+
+    19-1:Event listeners,higher order functions,Etch a sketch
+
+    19-2:Object state and instances,Turtle Race
+    
+    
+    
+
     
 
 
