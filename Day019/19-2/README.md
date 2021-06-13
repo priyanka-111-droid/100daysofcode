@@ -15,3 +15,7 @@ timmy and tommy function separelty from each other though they are created from 
 ## Turtle Race
 
 Create 7 turtles having colours of a rainbow and accept bet from user to enter which colour they think would win.After race,print if user wins or loses.
+
+Solution:[19-2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day019/19-2/19-2.py)
+
+
