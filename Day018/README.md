@@ -1,4 +1,4 @@
-# Turtle graphics in depth
+# Turtle graphics,tuples,importing modules
 
 ## Exercises:
 Use turtle [documentation](https://docs.python.org/3/library/turtle.html) for any reference.Also see turtle folder in Day 16 exercise for introduction to turtle module.
