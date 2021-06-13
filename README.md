@@ -243,7 +243,7 @@ Please feel free to point out any mistakes and suggestions.
 
     Project:Quiz game
 
-## [DAY 18:13/06/21]
+## [DAY 18:13/06/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day018)
 
     OVERALL:Turtle graphics,Tuples,importing Modules
     
@@ -262,7 +262,7 @@ Please feel free to point out any mistakes and suggestions.
     part1-used colorgram,colorpicker,learnt about Tuples
 
     part 2-used turtle colormode
-    
+
     
 
 
