@@ -271,7 +271,7 @@ Please feel free to point out any mistakes and suggestions.
 
     19-2:Object state and instances,Turtle Race
 
-## [DAY 20:15/06/21]
+## [DAY 20:15/06/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day020)
 
     OVERALL:Build the snake game part 1(Animation coordinates)
 
