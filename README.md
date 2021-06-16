@@ -270,7 +270,19 @@ Please feel free to point out any mistakes and suggestions.
     19-1:Event listeners,higher order functions,Etch a sketch
 
     19-2:Object state and instances,Turtle Race
-    
+
+## [DAY 20:15/06/21]
+
+    OVERALL:Build the snake game part 1(Animation coordinates)
+
+    step1:set screen and build snake body
+
+    Step 2:move snake,use tracer,update methods,time module
+
+    step 3:snake class
+
+    step 4:control using keyboard
+        
     
     
 
