@@ -14,6 +14,7 @@ starting_pos=[(0,0),(-20,0),(-40,0)]
 snake=[]
 for position in starting_pos:
     new_segment=Turtle("square")
+    new_segment.penup()
     new_segment.color("white")
     new_segment.goto(position)
     snake.append(new_segment)
