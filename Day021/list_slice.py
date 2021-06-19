@@ -1,4 +1,4 @@
-#Demo of list slicing and tuple slixing
+#Demo of list slicing and tuple slicing
 #index of first element is 0
 
 piano_keys=["a","b","c","d","e","f"]
