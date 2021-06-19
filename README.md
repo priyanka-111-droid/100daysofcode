@@ -282,6 +282,13 @@ Please feel free to point out any mistakes and suggestions.
     step 3:snake class
 
     step 4:control using keyboard
+
+
+## [DAY 21:19/06/21]
+
+    OVERALL:Inheritance,list and tuple slicing,Snake Game part 2
+
+    
         
     
     
