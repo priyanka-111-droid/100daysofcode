@@ -284,7 +284,8 @@ Please feel free to point out any mistakes and suggestions.
     step 4:control using keyboard
 
 
-## [DAY 21:19/06/21]
+## [DAY 21:19/06/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day021)
+
 
     OVERALL:Inheritance,list and tuple slicing,Snake Game part 2
 
