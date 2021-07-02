@@ -293,7 +293,7 @@ Please feel free to point out any mistakes and suggestions.
     OVERALL:Inheritance,list and tuple slicing,Snake Game part 2
 
     
-## [DAY 22:02/07/21]
+## [DAY 22:02/07/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day022)
 
     OVERALL:Pong Game
     
