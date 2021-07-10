@@ -297,7 +297,7 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Pong Game
 
-## [DAY 23:10/07/21]
+## [DAY 23:10/07/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day023)
 
     OVERALL:Turtle crossing Capstone
     
