@@ -300,6 +300,19 @@ Please feel free to point out any mistakes and suggestions.
 ## [DAY 23:10/07/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day023)
 
     OVERALL:Turtle crossing Capstone
+
+## [DAY 24:11/07-21]
+
+    OVERALL:Files,directories,paths
+
+    * Improving Snake Game
+
+    * practising how to use files
+
+    * Mail merger project
+
+    
+
     
     
         
