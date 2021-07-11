@@ -301,7 +301,7 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Turtle crossing Capstone
 
-## [DAY 24:11/07-21]
+## [DAY 24:11/07-21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day024)
 
     OVERALL:Files,directories,paths
 
