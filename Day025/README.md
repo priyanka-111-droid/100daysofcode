@@ -2,17 +2,17 @@
 
 ## Introduction
 
-1. main.py: Opening CSV file weather_data.csv using python files and then using Pandas library for the same purpose.
+1. [main.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day025/main.py): Opening CSV file weather_data.csv using python files and then using Pandas library for the same purpose.
 
 * [Pandas ](https://pandas.pydata.org/docs/getting_started/index.html#getting-started) -Click here to find out about installation .
 
-2. dataframes.py: Using Panda to analyse our CSV file in a better way.
+2. [dataframes.py]: Using Panda to analyse our CSV file in a better way.(https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day025/dataframe.py)
 
 * [Pandas API](https://pandas.pydata.org/docs/reference/index.html)-Click here to find out all of Pandas features.
 
 ## Exercise
 
-1.Central Park squirrels:
+1.[Central Park squirrels:](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day025/Exercise)
 
 Some people have collected data about Central Park squirrels in a Central Park squirrel csv file.Using this data already collected,
 create a new squirrel_count.csv file having only a small table with columns 
@@ -23,7 +23,7 @@ create a new squirrel_count.csv file having only a small table with columns
 
 ## Project
 
-1.Creating a US States Guessing Game.
+1.[Creating a US States Guessing Game.](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day025/Project)
 
 * Enter a state name and try to fill the US map as accurately as possible
 

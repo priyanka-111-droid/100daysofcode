@@ -1,5 +1,5 @@
 import pandas 
-data=pandas.read_csv("Day025\weather_data.csv")
+data=pandas.read_csv("Day025/weather_data.csv")
 
 #TODO 1:To print entire table
 # print(data)
@@ -56,6 +56,6 @@ data_dict={
 data=pandas.DataFrame(data_dict)
 print(data)
 #lets convert this to new csv file that will get stored inside Day025 folder
-data.to_csv("Day025\students.csv")
+data.to_csv("Day025/students.csv")
 
 
