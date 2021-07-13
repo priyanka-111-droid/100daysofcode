@@ -29,7 +29,7 @@ create a new squirrel_count.csv file having only a small table with columns
 
 * 50_states.csv and blank image having all states is already given
 
-2.[Spanish to English Quiz]
+2.[Spanish to English Quiz](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day025/Project-2)
 
 * Quiz where spanish word is displayed and user has to give its English meaning(of 1 word)
 
