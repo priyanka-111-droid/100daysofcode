@@ -6,7 +6,7 @@
 
 * [Pandas ](https://pandas.pydata.org/docs/getting_started/index.html#getting-started) -Click here to find out about installation .
 
-2. [dataframes.py]: Using Panda to analyse our CSV file in a better way.(https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day025/dataframe.py)
+2. [dataframes.py:](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day025/dataframe.py)Using Panda to analyse our CSV file in a better way.
 
 * [Pandas API](https://pandas.pydata.org/docs/reference/index.html)-Click here to find out all of Pandas features.
 
