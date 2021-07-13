@@ -305,11 +305,22 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Files,directories,paths
 
-    * Improving Snake Game
+    1.Improving Snake Game
 
-    * practising how to use files
+    2.practising how to use files
 
-    * Mail merger project
+    3.Mail merger project
+
+## [DAY 25:13/07/21]
+
+    OVERALL:Working with CSV Data and Panda Library,US States Guessing Game
+
+    1.Introduction:learning about csv files and Panda library
+
+    2.Exercise:Analysing squirrels from Central Park Squirrels csv file
+
+    3.Project:Making a US States guessing game
+
 
     
 
