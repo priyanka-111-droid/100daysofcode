@@ -28,3 +28,8 @@ create a new squirrel_count.csv file having only a small table with columns
 * Enter a state name and try to fill the US map as accurately as possible
 
 * 50_states.csv and blank image having all states is already given
+
+2.[Spanish to English Quiz]
+
+* Quiz where spanish word is displayed and user has to give its English meaning(of 1 word)
+
