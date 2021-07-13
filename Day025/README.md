@@ -8,9 +8,9 @@
 
 2. dataframes.py: Using Panda to analyse our CSV file in a better way.
 
-* [Pandas API](https://pandas.pydata.org/docs/reference/index.html)-Click here to find out what all we can do with Pandas.
+* [Pandas API](https://pandas.pydata.org/docs/reference/index.html)-Click here to find out all of Pandas features.
 
-## Exercises
+## Exercise
 
 1.Central Park squirrels:
 
