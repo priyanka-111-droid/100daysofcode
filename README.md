@@ -323,7 +323,10 @@ Please feel free to point out any mistakes and suggestions.
 
     4.Project 2:Spanish to English Quiz
 
+## [DAY 26:14/07/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day026)
 
+    OVERALL:List and dictionary comprehension,NATO alphabet phonetic game
+    
     
 
     
