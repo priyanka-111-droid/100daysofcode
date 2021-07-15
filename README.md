@@ -327,6 +327,11 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:List and dictionary comprehension,NATO alphabet phonetic game
     
+## [DAY 27:15/07/21]
+
+    OVERALL:Tkinter,args,kwargs,GUI programs
+
+    
     
 
     
