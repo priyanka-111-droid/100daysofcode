@@ -331,7 +331,9 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Tkinter,args,kwargs,GUI programs
 
-    
+## [DAY 28:15/07/21]
+
+    OVERALL:Tkinter,Dynamic typing,Pomodoro GUI application
     
 
     
