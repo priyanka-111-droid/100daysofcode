@@ -4,11 +4,11 @@
 
 1.Catching Exceptions using try catch except else finally pattern
 
-See main.py
+See [main.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day030/Theory/main.py)
 
 2.Raise your own Exceptions
 
-See own_exception.py
+See [own_exception.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day030/Theory/own_exception.py)
 
 3.Introduction to [JSON](https://docs.python.org/3/library/json.html)
 
@@ -30,7 +30,7 @@ See own_exception.py
 
 1.IndexError Handling Exercise
 
-Question and Solution:30-1.py
+Question and Solution:[30-1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day030/Exercise/30-1.py)
 
 Issue:We've got some buggy code. Try running the code. The code will crash and give you an IndexError. This is because we're looking through the list of fruits for an index that is out of range.
 
@@ -44,7 +44,7 @@ Hints:
 
 2.KeyError Handling Exercise
 
-Question and Solution:30-2.py
+Question and Solution:[30-2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day030/Exercise/30-2.py)
 
 Issue:We've got some buggy code, try running the code. The code will crash and give you a KeyError. This is because some of the posts in the facebook_posts don't have any "Likes".
 
@@ -60,10 +60,10 @@ Hints:
 
 1.Adding Exception Handling in NATO-alphabet Project from Day 26.
 
-See NATO-alphabet
+See [NATO-alphabet](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day030/Project/NATO-alphabet)
 
 2.Improving Password Manager  from Day 29
 
-See password-manager-start
+See [password-manager-start](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day030/Project/password-manager-start)
 
 

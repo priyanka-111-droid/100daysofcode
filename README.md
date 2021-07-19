@@ -339,7 +339,7 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Building a Password Manager GUI App with Tkinter
 
-## [DAY 30:19/07/21]
+## [DAY 30:19/07/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day030)
 
     OVERALL:Errors,Exceptions and JSON Data Improving the Password
 

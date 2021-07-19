@@ -2,7 +2,7 @@
 
 * Using json files instead of txt files
 
-NOTE:dictionaries have unique keys so we CANNOT have one website entry having more than 1 email and password.
+NOTE:dictionaries have unique keys so we CANNOT have one website entry(key) having more than 1 email and password.We would need to slightly modify the program using lists or sets.
 
 * Handling Exceptions in Password Manager
 
