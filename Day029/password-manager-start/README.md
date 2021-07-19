@@ -46,9 +46,9 @@ These make code more pythonic.
 
 ## Remove password section
 
-11.Added extra section called remove password where we just enter website in website entry field and website,email and password all get deleted from data.txt file.
+11.Added extra section called remove password where we just enter website in website entry field and email in email entry field and website,email and password all get deleted from data.txt file.
 
-Display error message when user has left website entry field empty.
+Display error message when user has left website entry field or email entry field empty.
 
 Display dialog box when deleted successfully and error message when website not found in data.txt file.
 

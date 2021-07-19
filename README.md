@@ -339,6 +339,11 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Building a Password Manager GUI App with Tkinter
 
+## [DAY 30:19/07/21]
+
+    OVERALL:Errors,Exceptions and JSON Data Improving the Password
+
+    
 
     
 

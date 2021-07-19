@@ -94,9 +94,10 @@ def add_password():
 def remove_password():
     count=0
     website_answer=website.get().title()
+    email_answer=email.get()
 
-    if(len(website_answer)==0 ):
-        messagebox.showinfo(title="Oops",message="Please enter the name of website!")
+    if(len(website_answer)==0 or len(email_answer)==0):
+        messagebox.showinfo(title="Oops",message="Please enter the name of website and email!")
     else:
 
         with open("Day029/password-manager-start/data.txt",mode="r") as f:
@@ -107,7 +108,11 @@ def remove_password():
                 if(lis[0].strip(" ")!=website_answer):
                     f.write(line)
                 else:
-                    count=1
+                    #if website name matches,we need to check if email is also matching or not
+                    if(lis[1].strip(" ")!=email_answer):
+                        f.write(line)
+                    else:
+                        count=1
 
         if(count==1):
             messagebox.showinfo(title="Successful",message="Password for website deleted successfully!")
