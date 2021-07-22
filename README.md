@@ -348,6 +348,10 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Flash Card App Capstone Project
 
+## [DAY 32:21/07/21]
+
+    OVERALL:Send Email(smtplib) and Manage Dates(datetime)
+
     
     
 
