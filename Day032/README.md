@@ -18,23 +18,25 @@ Set up a fresh gmail account and a fresh yahoo account to test.
 
 NOTE:I have used environment variables to protect my email id and password.
 
-See practice.py
+See [practice.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day032/practice.py)
 
 ## Working with datetime Module
 
-See [dateime](https://docs.python.org/3/library/datetime.html) for documentation
+See [datetime](https://docs.python.org/3/library/datetime.html) for documentation
 
-See date_time.py
+See [date_time.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day032/date_time.py)
 
 # Exercise
 
 Send motivational quotes on Mondays via Email
 
-See Exercise
+See [Exercise](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day032/Exercise)
 
 # Project
 
-Automated Birthday wisher
+[Automated Birthday wisher](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day032/Project/birthday-wisher)
+
+
 
 
 

@@ -6,5 +6,6 @@ NOTE:Please make sure you enter their valid emails.I have used invalid dummy ema
 
 2.Check by replacing any of the birthdays with today's date to see if your code works
 
-3.https://stackoverflow.com/questions/30787901/how-to-get-a-value-from-a-pandas-dataframe-and-not-the-index-and-object-type can be of help.
+Hint : https://stackoverflow.com/questions/30787901/how-to-get-a-value-from-a-pandas-dataframe-and-not-the-index-and-object-type 
+
 

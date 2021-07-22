@@ -348,7 +348,7 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Flash Card App Capstone Project
 
-## [DAY 32:21/07/21]
+## [DAY 32:21/07/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day032)
 
     OVERALL:Send Email(smtplib) and Manage Dates(datetime)
 
