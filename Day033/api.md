@@ -2,7 +2,7 @@
 
 We can check Yahoo weather,coinbase to check value of cryptocurrencies etc.We can make use of this data with the help of APIs.
 
-API is a set of commands,functions,protocols and objects that programmers can use to create software or interact with external system.
+API(Application Programming Interface) is a set of commands,functions,protocols and objects that programmers can use to create software or interact with external system.
 
 We will use API to interact with external system.
 

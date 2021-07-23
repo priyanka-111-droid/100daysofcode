@@ -352,7 +352,7 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Send Email(smtplib) and Manage Dates(datetime)
 
-## [DAY 33:23/07/21]
+## [DAY 33:23/07/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day033)
 
     OVERALL:API Endpoints and API Parameters
 
