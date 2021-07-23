@@ -352,8 +352,9 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Send Email(smtplib) and Manage Dates(datetime)
 
-    
-    
+## [DAY 33:23/07/21]
+
+    OVERALL:API Endpoints and API Parameters
 
     
     
