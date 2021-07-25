@@ -360,7 +360,11 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:API Practice-Creating a GUI Quiz App and type hints in python
     
+## [DAY 35:25/07/21]
 
+    OVERALL:Keys,Authentication,Environment variables
+
+    Exercises:OpenWeather API,Check if raining,Python slice
     
         
     
