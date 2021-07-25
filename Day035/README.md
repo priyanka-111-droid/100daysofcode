@@ -19,7 +19,7 @@ NOTE:For Windows,instead of export you need to write set.
 
 2.Now in order to use this environment variable,you need to import os module.
 
-        api_key=os.environ.get("API_KEY)
+        api_key=os.environ.get('API_KEY')
 
 
 ## Exercise
