@@ -26,7 +26,7 @@ NOTE:For Windows,instead of export you need to write set.
 
 ### 1.Testing our API key
 
-* Create a free account on openweathermap.org.Get your own api key under My API keys and change the name of the key to whatever you wish.
+* Create a free account on [openweathermap](https://home.openweathermap.org/users/sign_up).Get your own api key under My API keys and change the name of the key to whatever you wish.
 
 * Now under the API section,in weather API,go to the API doc under Current weather data.
 
@@ -37,7 +37,7 @@ NOTE:For Windows,instead of export you need to write set.
 * Go to API doc for One call API.
 Make an API request from your python editor to the one call API and locate hourly forecast for next 48 hours in the json response that you get back.
 
-* See one_call_api.py
+* See [one_call_api.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day035/one_call_api.py)
 
 * To locate hourly forcast,copy the huge json response into [http://jsonviewer.stack.hu/](http://jsonviewer.stack.hu/) and click viewer.This will organize the json and now we can easily get the hourly data.
 
@@ -51,6 +51,6 @@ Hints:
 
 1.Using python [slice](https://stackoverflow.com/questions/509211/understanding-slice-notation)
 
-See umbrella.py
+See [umbrella.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day035/umbrella.py)
 
 
