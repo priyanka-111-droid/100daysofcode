@@ -366,7 +366,7 @@ Please feel free to point out any mistakes and suggestions.
 
     Exercises:OpenWeather API,Check if raining,Python slice
     
-## [DAY 36:25/07/21]
+## [DAY 36:25/07/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day036)
 
     OVERALL:Stock Trading News Alert Project
     

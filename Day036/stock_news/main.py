@@ -79,13 +79,13 @@ def get_news():
     news_response=requests.get(url=NEWS_ENDPOINT,params=news_parameters)
     news_data=news_response.json()
     three_articles=(news_data['articles'][:3])
-    title_and_desc=[f"{article['title']}\n{article['description']}" for article in three_articles]
+    title_and_desc=[f"Headline: {article['title']}\nBrief: {article['description']}" for article in three_articles]
     mail(title_and_desc)
 
 
 #to test if the code works,comment the if statement.
-# if abs(diff_perc)>5:
-get_news()
+if abs(diff_perc)>5:
+    get_news()
 
 
 
