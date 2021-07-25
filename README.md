@@ -366,7 +366,9 @@ Please feel free to point out any mistakes and suggestions.
 
     Exercises:OpenWeather API,Check if raining,Python slice
     
-        
+## [DAY 36:25/07/21]
+
+    OVERALL:Stock Trading News Alert Project
     
     
 
