@@ -1,4 +1,4 @@
-# Capstone part 1 Flight Deal Finder 
+# Capstone Flight Deal Finder 
 
 ## APIs needed:
 
