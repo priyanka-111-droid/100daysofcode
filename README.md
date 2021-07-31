@@ -382,7 +382,7 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL: Capstone Part 1 Flight Deal Finder(using sheety API,kiwi API and twilio API)
 
-## [DAY 39:31/07/21]
+## [DAY 39:31/07/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day040)
 
     OVERALL: Capstone part 2 Flight Club
 
