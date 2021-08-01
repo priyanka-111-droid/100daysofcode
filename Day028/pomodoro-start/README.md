@@ -1,4 +1,4 @@
-# Tkinter,Dynamic typing,Pomodoro GUI application
+# Dynamic typing,Pomodoro GUI application
 
 # Pomodoro technique of efficiently working
 

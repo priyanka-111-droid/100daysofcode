@@ -14,13 +14,35 @@ Tkinter already comes inbuilt with python like Turtle.So we just need to import 
 
 See [intro.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day027/Tkinter/intro.py)
 
-### 2.Other Tkinter widgets Radiobutton,Scales,Checkbutton and more
+### 2.Other Tkinter widgets Frame,Radiobutton,Scales,Checkbutton and more
 
 See [other_widgets.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day027/Tkinter/other_widgets.py)
 
 ### 3.Layout Managers in Tkinter
 
 See [layout_man.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day027/Tkinter/layout_man.py)
+
+### 4.Tkinter and Classes
+
+i)Creating a GUI using classes
+
+See tkinter_and_class.py
+
+ii)Binding widgets and event handlers
+
+see event_handlers.py
+
+iii)Using text and entry eidgets and grid layout manager
+
+See text_widget.py
+
+iv)Using check buttons
+
+See checkbox.py
+
+v)Using radio buttons
+
+See radiobuttons.py
 
 ## Advanced Python Arguments
 
@@ -40,9 +62,9 @@ See [car.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day02
 
 ## Project(GUI Based)
 
-[Miles to Km Converter](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day027/Project/main.py)
+[Miles to Km Converter](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day027/Project/main.py):simple GUI based program(no classes)
 
-
+[GUI Mad lib]():Mad lib GUI program(class based) including checkbox,radio buttons,text field and files
 
 
 

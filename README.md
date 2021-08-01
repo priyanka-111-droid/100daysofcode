@@ -329,11 +329,11 @@ Please feel free to point out any mistakes and suggestions.
     
 ## [DAY 27:15/07/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day027)
 
-    OVERALL:Tkinter,args,kwargs,GUI programs
+    OVERALL:Tkinter,Tkinter and classes,args,kwargs,GUI programs
 
-## [DAY 28:15/07/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day028/pomodoro-start)
+## [DAY 28:15/07/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day028)
 
-    OVERALL:Tkinter,Dynamic typing,Pomodoro GUI application
+    OVERALL:Tkinter,Digital clock GUI(used strftime()),Dynamic typing,Pomodoro GUI application
 
 ## [DAY 29:18/07/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day029/password-manager-start)
 

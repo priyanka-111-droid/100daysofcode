@@ -1,6 +1,5 @@
 from tkinter import *
 
-
 #Creating a new window and configurations
 window = Tk()
 window.title("Widget Examples")
@@ -10,6 +9,18 @@ window.minsize(width=500, height=500)
 label = Label(text="This is old text")
 label.config(text="This is new text")
 label.pack()
+
+# Frame 
+# Frame is a widget that can hold other widgets like Label widgets
+# create a frame in the window to hold other widgets
+
+# app=Frame(window)
+
+#anytime you create  new widget,you must pass its master(the thing that will contain the widget) to constructor of new object
+#Here we pass window to Frame constructor. 
+#Hence new frame is placed inside window.
+
+# app.grid()
 
 #Buttons
 def action():
