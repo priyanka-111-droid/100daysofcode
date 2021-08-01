@@ -26,23 +26,23 @@ See [layout_man.py](https://github.com/priyanka-111-droid/100daysofcode/blob/mai
 
 i)Creating a GUI using classes
 
-See tkinter_and_class.py
+See [tkinter_and_class.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day027/Tkinter/Tkinter_and_classes/tkinter_and_class.py)
 
 ii)Binding widgets and event handlers
 
-see event_handlers.py
+see [event_handlers.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day027/Tkinter/Tkinter_and_classes/event_handlers.py)
 
-iii)Using text and entry eidgets and grid layout manager
+iii)Using text and entry widgets and grid layout manager
 
-See text_widget.py
+See [text_widget.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day027/Tkinter/Tkinter_and_classes/text_widget.py)
 
 iv)Using check buttons
 
-See checkbox.py
+See [checkbox.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day027/Tkinter/Tkinter_and_classes/checkbox.py)
 
 v)Using radio buttons
 
-See radiobuttons.py
+See [radiobuttons.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day027/Tkinter/Tkinter_and_classes/radiobuttons.py)
 
 ## Advanced Python Arguments
 
@@ -64,7 +64,7 @@ See [car.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day02
 
 [Miles to Km Converter](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day027/Project/main.py):simple GUI based program(no classes)
 
-[GUI Mad lib]():Mad lib GUI program(class based) including checkbox,radio buttons,text field and files
+[GUI Mad lib](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day027/Project/mad_lib.py):Mad lib GUI program(class based) including checkbox,radio buttons,text field and files
 
 
 
