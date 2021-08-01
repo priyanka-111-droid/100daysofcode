@@ -386,7 +386,7 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL: Capstone part 2 Flight Club
 
-## [DAY 41:01/08/2021]
+## [DAY 41:01/08/2021](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day041/intro_to_html)
 
     OVERALL:Web foundation:Introduction to HTML
 
