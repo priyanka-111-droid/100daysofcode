@@ -390,8 +390,12 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Web foundation:Introduction to HTML
 
+## [DAY 42:02/08/2021]
+
+    OVERALL:Web foundation:Intermediate HTML(Tables,forms)
 
 
+    
     
 
     

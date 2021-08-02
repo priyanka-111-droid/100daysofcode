@@ -34,6 +34,8 @@ Make your own personal cv site based on above sample webpage
 
 * Add [links](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a) to an external site and to another html page.
 
+* To the top of your page,add an image.
+
 
 
 
