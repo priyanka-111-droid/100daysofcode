@@ -1,0 +1,17 @@
+body{
+    background-color: #EAF6F6;  
+}
+hr{
+    /*browser sets a default border and we can override it*/
+    background-color: white;
+    /* border-style:none; */
+    /*for dotted border only at the top part*/
+    border-style: dotted none none;
+    /*but for single border and NOT a box having dotted border,make height :0px*/
+    /* height:2px; */
+    height:0px;
+    width:5%;
+
+    border-width:4px;
+    border-color:gray;
+}

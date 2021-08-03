@@ -394,9 +394,13 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Web foundation:Intermediate HTML(Tables,forms)
 
+## [DAY 43:03/08/21]
 
-    
-    
+    OVERALL:Web Foundation:Introduction to CSS  
+
+## [DAY 44:03/08/21]
+
+    OVERALL:Web Foundation:Intermediate CSS 
 
     
     

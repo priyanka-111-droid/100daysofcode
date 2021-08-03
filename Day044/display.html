@@ -1,0 +1,53 @@
+<!--
+    Display:
+    1)inline:
+    -appears on same line
+    -width CANNOT be changed
+    -eg.span
+    2)block
+    -each block element occupies entire line
+    -width CAN be changed
+    -eg.p tag
+    3)inline-block
+    -can make it appear on same line
+    -width CAN be changed.
+    4)none
+    -disappears as if never existed.
+NOTE:Once you change display of block element to inline,you can no longer change its width.
+
+NOTE:visibility:hidden makes element disappear,but keeps a gap where element used to be. 
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display</title>
+    <style>
+        p{
+            background-color: red;
+            width:100px;
+            /* display:inline; now width cannot be changed */
+            display:inline-block;
+        }
+        span{
+            background-color: blue;
+            /* width:100px; */ /*this line does nothing as span is inline*/
+            /* display: block; */
+            width:100px; /*now this line works as display has been changed to block*/
+        }
+        .second-p{
+            /* display:none; */
+            visibility: hidden;
+        }
+
+    </style>
+</head>
+<body>
+    <p>Hello</p>
+    <p class="second-p">World</p>
+    <span>Hello</span>
+    <span>World</span>
+</body>
+</html>
