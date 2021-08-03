@@ -394,11 +394,11 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Web foundation:Intermediate HTML(Tables,forms)
 
-## [DAY 43:03/08/21]
+## [DAY 43:03/08/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day043)
 
     OVERALL:Web Foundation:Introduction to CSS  
 
-## [DAY 44:03/08/21]
+## [DAY 44:03/08/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day044)
 
     OVERALL:Web Foundation:Intermediate CSS 
 
