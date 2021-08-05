@@ -402,6 +402,12 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Web Foundation:Intermediate CSS 
 
+## [DAY 45:05/08/21]
+
+    OVERALL:Web Scraping with Beautiful Soup
+
+    
+
     
     
     
