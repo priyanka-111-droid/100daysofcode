@@ -10,7 +10,7 @@ Hints:
 
 1.[strptime and strftime](https://www.programiz.com/python-programming/datetime)
 
-2.[Beautiful Soup is returning empty list](https://stackoverflow.com/questions/65545425/why-beautiful-soup-select-by-class-return-empty-list-by-find-all-works/65546278)
+2.[Why is my Beautiful Soup is returning empty list](https://stackoverflow.com/questions/65545425/why-beautiful-soup-select-by-class-return-empty-list-by-find-all-works/65546278)
 
 3.Take a look at the URL of the chart on a historical date: https://www.billboard.com/charts/hot-100/2000-08-12
 
