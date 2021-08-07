@@ -410,7 +410,11 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Spotify Music Time Machine
 
+## [DAY 47:07/08/2021]
 
+    OVERALL:Automated Amazon price tracker
+
+    
     
     
     
