@@ -410,7 +410,7 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Spotify Music Time Machine
 
-## [DAY 47:07/08/2021]
+## [DAY 47:07/08/2021](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day047/automated-amazon-price-tracker)
 
     OVERALL:Automated Amazon price tracker
 
