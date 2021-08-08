@@ -414,6 +414,12 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Automated Amazon price tracker
 
+## [DAY 48:08/08/2021]
+
+    OVERALL:Selenium webdriver and game playing bot
+
+
+
     
     
     
