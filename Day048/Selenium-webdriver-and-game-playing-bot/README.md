@@ -10,21 +10,21 @@ Install [chromedriver](https://chromedriver.chromium.org/downloads)
 
 Use pip to install selenium
 
-See [intro.py]
+See [intro.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day048/Selenium-webdriver-and-game-playing-bot/intro.py)
 
 2.How to find and select elements on a website using Selenium.
 
 We can complete Day 47-Amazon tracker using Selenium-webdriver.
 
-See [amazon.py]
+See [amazon.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day048/Selenium-webdriver-and-game-playing-bot/amazon.py)
 
 Finding elements in other ways
 
-See [find.py]
+See [find.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day048/Selenium-webdriver-and-game-playing-bot/find.py)
 
 3.How to automate filling out forms and clicking buttons and links
 
-See [interaction.py]
+See [interaction.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day048/Selenium-webdriver-and-game-playing-bot/interaction.py)
 
 ## Exercises
 
@@ -42,19 +42,19 @@ Hints:
 
 * [Nested dictionary comprehension](https://www.programiz.com/python-programming/dictionary-comprehension)
 
-Solution:48-1.py
+Solution:[48-1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day048/Selenium-webdriver-and-game-playing-bot/Exercise/48-1.py)
 
 2.Go to [wikipedia main page](https://en.wikipedia.org/wiki/Main_Page) and Use Selenium to get total number of articles in English located at top of the wikipedia page(eg.6,352,825) and print it out.
 
-Solution:48-2.py
+Solution:[48-2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day048/Selenium-webdriver-and-game-playing-bot/Exercise/48-2.py)
 
 3.Go to this [form sign up](http://secure-retreat-92358.herokuapp.com/) page and fill the form and click Sign up automatically.Note:this is NOT an actual sign up page,its just for testing purposes.
 
-Solution:48-3.py
+Solution:[48-3.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day048/Selenium-webdriver-and-game-playing-bot/Exercise/48-3.py)
 
 ## Project
 
-Cookie clicker
+[Cookie clicker](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day048/Selenium-webdriver-and-game-playing-bot/Project/cookieclicker.py)
 
 * Go to the game website and familiarise yourself with how it works:http://orteil.dashnet.org/experiments/cookie/ (classic version)
 
