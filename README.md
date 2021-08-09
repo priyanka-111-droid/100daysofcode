@@ -422,7 +422,7 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Job automation Linked-in
 
-## [DAY 50-:09/08/2021]
+## [DAY 50-:09/08/2021](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day050/auto-tinder-swiping-bot)
 
     OVERALL:Auto Tinder Swiping bot
 
