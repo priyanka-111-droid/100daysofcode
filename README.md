@@ -418,6 +418,10 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Selenium webdriver and game playing bot
 
+## [DAY 49:09/08/2021]
+
+    OVERALL:Job automation Linked-in
+
 
 
     
