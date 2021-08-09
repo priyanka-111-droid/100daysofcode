@@ -422,6 +422,12 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Job automation Linked-in
 
+## [DAY 50-:09/08/2021]
+
+    OVERALL:Auto Tinder Swiping bot
+
+
+
 
 
     
