@@ -427,7 +427,7 @@ Please feel free to point out any mistakes and suggestions.
     OVERALL:Auto Tinder Swiping bot
 
 
-## [DAY 51:10/08/2021]
+## [DAY 51:10/08/2021](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day051/internet-speed-twitter-complain-bot)
 
     OVERALL:Internet Speed Twitter Complain bot
 
