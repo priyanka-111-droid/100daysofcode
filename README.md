@@ -435,7 +435,7 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Instagram follower bot
 
-## [DAY 53:11/08/21]
+## [DAY 53:11/08/21](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day053/capstone-data-entry-automation)
 
     OVERALL:Web scraping Capstone:Data entry job automation
     
