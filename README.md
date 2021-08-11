@@ -431,6 +431,10 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Internet Speed Twitter Complain bot
 
+## [DAY 52:11/08/2021]
+
+    OVERALL:Instagram follower bot
+
     
 
     
