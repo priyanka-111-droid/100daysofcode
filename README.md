@@ -435,6 +435,11 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Instagram follower bot
 
+## [DAY 53:11/08/21]
+
+    OVERALL:Web scraping Capstone:Data entry job automation
+    
+
     
 
     
