@@ -100,7 +100,7 @@ string_and_int(text,number) : adds a number to a string and prints the result
         Exception:TypeError
         Exception in string_and_int function
 
-HINT:https://stackoverflow.com/questions/1483429/how-to-print-an-exception-in-python and [dec3.py]((https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day054/intro-backend-web-dev/Theory/first-class-func-and-decorators/dec3.py))
+HINT:https://stackoverflow.com/questions/1483429/how-to-print-an-exception-in-python and [dec3.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day054/intro-backend-web-dev/Theory/first-class-func-and-decorators/dec3.py)
 
 SOLUTION:[dec_excep.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day054/intro-backend-web-dev/Exercise/dec_excep.py)
 
