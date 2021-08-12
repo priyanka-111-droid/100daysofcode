@@ -1,5 +1,5 @@
 #########<<<<FIRST CLASS FUNCTIONS(basics before learning decorators)>>>>>>#####
-#Python is a language that has first class functions as it treats functions like first-class objects
+#Python is a language that is said to have first class functions because it treats functions like first-class objects
 
 #First class object(Programming):
 #This is an entity that supports operations available to other entities.
