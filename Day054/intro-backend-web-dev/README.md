@@ -4,27 +4,27 @@
 
 ## Components of web development:
 
-* See intro.md for more details.
+* See [intro.md](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day054/intro-backend-web-dev/Theory/intro.md) for more details.
 
 ## __name__ and __main__
 
 * Documentation:[__name__](https://docs.python.org/3/library/stdtypes.html?highlight=__name__#special-attributes) and [__main__](https://docs.python.org/3/library/__main__.html)
 
-* See [name_and_main]
+* See [name_and_main](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day054/intro-backend-web-dev/Theory/name_and_main)
 
 ## First class functions,closures and python decorators
 
-1.First class functions,closures(needed before learning decorators):[first-class-func.py]
+1.First class functions,closures(needed before learning decorators):[first-class-func.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day054/intro-backend-web-dev/Theory/first-class-func-and-decorators/first-class-func.py)
 
-2.Decorators introduction:dec1.py
+2.Decorators introduction:[dec1.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day054/intro-backend-web-dev/Theory/first-class-func-and-decorators/dec1.py)
 
 Examples:
 
-* Adding delay to a function:dec2.py
+* Adding delay to a function:[dec2.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day054/intro-backend-web-dev/Theory/first-class-func-and-decorators/dec2.py)
 
-* Decorators and args and kwargs:dec3.py
+* Decorators and args and kwargs:[dec3.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day054/intro-backend-web-dev/Theory/first-class-func-and-decorators/dec3.py)
 
-* Decorators and classes:dec4.py
+* Decorators and classes:[dec4.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day054/intro-backend-web-dev/Theory/first-class-func-and-decorators/dec4.py)
 
 # Exercises
 
@@ -40,7 +40,7 @@ Examples:
 
 * Run Flask using Python built in attributes like [__name__](https://docs.python.org/3/library/stdtypes.html?highlight=__name__#special-attributes) and [__main__](https://docs.python.org/3/library/__main__.html)
 
-SOLUTION:intro_flask.py
+SOLUTION:[intro_flask.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day054/intro-backend-web-dev/Exercise/intro_flask.py)
 
 ## Creating our own decorator
 
@@ -64,7 +64,7 @@ Given the above information, complete the code exercise by printing out the spee
 
 HINT: You can use function.__name__ to get the name of the function
 
-SOLUTION:dec_practice.py
+SOLUTION:[dec_practice.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day054/intro-backend-web-dev/Exercise/dec_practice.py)
 
 ## Handling Exceptions using decorators
 
@@ -100,7 +100,7 @@ string_and_int(text,number) : adds a number to a string and prints the result
         Exception:TypeError
         Exception in string_and_int function
 
-HINT:https://stackoverflow.com/questions/1483429/how-to-print-an-exception-in-python and dec3.py
+HINT:https://stackoverflow.com/questions/1483429/how-to-print-an-exception-in-python and [dec3.py]((https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day054/intro-backend-web-dev/Theory/first-class-func-and-decorators/dec3.py))
 
-SOLUTION:dec_excep.py
+SOLUTION:[dec_excep.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day054/intro-backend-web-dev/Exercise/dec_excep.py)
 
