@@ -443,9 +443,11 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Introduction to Backend web development(Flask),first class functions,decorators,__name__ and __main__
     
+## [DAY 55:12/08/2021]
+
+    OVERALL:HTML and URL parsing in Flask and Higher Lower Game
 
     
-
     
 
 
