@@ -10,7 +10,9 @@ Back-End languages:JS,Python,Java,Ruby
 
 Back-End frameworks:Node,Flask(python based),Django(python based)
 
-Frameworks are tools that come with code prebuilt for a lot of common functionalities.The code never calls the framework,instead the framework calls you.
+Frameworks are tools that come with code prebuilt for a lot of common functionalities.
+
+[Difference between module,package,library,framework.](https://learnpython.com/blog/python-modules-packages-libraries-frameworks/)
 
 ### 1.Client:
 
