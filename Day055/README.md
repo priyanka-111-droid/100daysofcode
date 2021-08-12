@@ -6,11 +6,11 @@
 
 Documentation:[routing](https://flask.palletsprojects.com/en/1.1.x/quickstart/#routing) and [variable rules](https://flask.palletsprojects.com/en/1.1.x/quickstart/#variable-rules)
 
-See flask_url.py
+See [flask_url.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day055/flask_url.py)
 
 ## Rendering HTML elements with Flask
 
-See flask_html.py
+See [flask_html.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day055/flask_html.py)
 
 # Exercise
 
@@ -24,7 +24,7 @@ b)create another decorator @make_emphasis that will make text emphasis.
 
 b)create another decorator @make_underlined that will make text emphasis.
 
-SOLUTION:flask_style.py
+SOLUTION:[flask_style.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day055/Exercise/flask_style.py)
 
 2.Advanced decorators
 
@@ -37,10 +37,10 @@ HINT 1: You can use function.__name__ to get the name of the function.
 
 HINT 2: You'll need to use *args
 
-SOLUTION:dec_adv.py
+SOLUTION:[dec_adv.py](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day055/Exercise/dec_adv.py)
 
 # Project
 
-[higher-lower]
+[higher-lower](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day055/higher-lower/server.py)
 
 Creating the higher lower game that we created in Day 14, but now with a real website.
