@@ -18,7 +18,7 @@ See [demo-HTML-site](https://github.com/priyanka-111-droid/100daysofcode/tree/ma
 
 1.Working with External CSS stylesheets
 
-Create a CSS stylesheet in the static folder and change the background of the [index.html](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day042/intermediate_html/index.html) page to purple.
+Create a CSS stylesheet in the static folder and change the background of the [index.html](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day056/demo-HTML-site/templates/index.html) page to purple.
 
 See [56-1](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day056/Exercise/56-1)
 
