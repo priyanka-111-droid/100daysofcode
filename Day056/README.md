@@ -12,21 +12,21 @@ In this case,Flask will look for templates(our HTML files) in the templates fold
 
 You need to place images in a folder called static.
 
-See [demo-HTML-site] where we have used only the HTML files from day 42.
+See [demo-HTML-site](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day056/demo-HTML-site) where we have used only the HTML files from day 42.
 
 # Exercise
 
 1.Working with External CSS stylesheets
 
-Create a CSS stylesheet in the static folder and change the background of the [index.html] page to purple.
+Create a CSS stylesheet in the static folder and change the background of the [index.html](https://github.com/priyanka-111-droid/100daysofcode/blob/main/Day042/intermediate_html/index.html) page to purple.
 
-See [56-1]
+See [56-1](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day056/Exercise/56-1)
 
 2.Personal Site with CSS
 
 We have used the personal site(implemented with HTML and CSS) from Day 44.We will serve it using Python Flask.
 
-See [56-2]
+See [56-2](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day056/Exercise/56-2)
 
 
 
