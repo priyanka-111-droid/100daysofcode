@@ -28,11 +28,6 @@ We have used the personal site(implemented with HTML and CSS) from Day 44.We wil
 
 See [56-2]
 
-# Project
-
-[Name Card project]
-
-Templates from https://html5up.net/aerial
 
 
 
