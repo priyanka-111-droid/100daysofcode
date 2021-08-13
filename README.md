@@ -447,7 +447,9 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:HTML and URL parsing in Flask and Higher Lower Game
 
-    
+## [DAY 56:13/08/2021]   
+
+    OVERALL:Rendering HTMLStatic Files and using website templates
     
 
 
