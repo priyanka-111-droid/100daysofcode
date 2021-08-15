@@ -10,7 +10,7 @@ Jinja is templating language for Python.It is already bundled with Flask and the
 
 If we wanted to use if statements and for loops,we would need to use slightly different markup.
 
-See [multiline-jinja]()
+See [multiline-jinja](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day057/multiline-jinja)
 
 ## URL Building with Flask
 
@@ -22,7 +22,7 @@ See [url-building documentation](https://flask.palletsprojects.com/en/2.0.x/quic
 
 See [here]https://updateyourfooter.com/).We will be updating the footer of a HTML page to show the current year using python instead of javascript or PHP.It should display "Copyright CURRENT_YEAR.Built by YOUR_NAME"
 
-SOLUTION: [dynamic-footer]
+SOLUTION: [dynamic-footer](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day057/Exercise/dynamic-footer)
 
 ## Combine Jinja Templating with APIs
 
@@ -38,11 +38,11 @@ SOLUTION: [dynamic-footer]
 
 * The nationalize API returns [ISO 2 letter country codes](https://en.wikipedia.org/wiki/ISO_3166-2) instead of the full country name.So we have used pandas to read HTML tables from [here](https://en.wikipedia.org/wiki/ISO_3166-2) and get the full country name from country code.See [Reading HTML tables using pandas](https://pbpython.com/pandas-html-table.html)
 
-SOLUTION:[using-apis]()
+SOLUTION:[using-apis](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day057/Exercise/using-apis)
 
 # Project
 
-[Blog posts]()
+[Blog posts](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day057/Project/blog-templating/blog-templating-start)
 
 
 
