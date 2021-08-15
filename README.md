@@ -451,9 +451,10 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Rendering HTMLStatic Files and using website templates
     
+## [DAY 57:13/08/2021]
 
-
-
+    OVERALL:Templating with Jinja in Flask applications
+    
 
     
 
