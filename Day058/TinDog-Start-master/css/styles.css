@@ -1,0 +1,85 @@
+body{
+    font-family: 'Montserrat','sans-serif';
+}
+#top-section{
+    background:#ff4c68;
+    color:white;
+}
+/*Navbar*/
+.navbar{
+    padding-top:2.5%;
+}
+.navbar-brand{
+    font-size:1.7rem;
+    font-family:'Roboto', sans-serif;
+}
+.nav-item{
+    margin-left:30px;
+}
+h1,h2{
+    font-weight:600;
+    line-height:3rem;
+}
+
+/*showcase section*/
+
+.title-image{
+    width:15%;
+    transform:rotate(18deg);
+}
+/*Features*/
+.card-title{
+    font-weight:600;
+}
+.card-text{
+    color:#8f8f8f;
+}
+.icon{
+    color:#ef8172;
+}
+.icon:hover{
+    color:#ff4c68;
+}
+/*Testimonial section*/
+.testimonials{
+    background-color:#ef8172;
+    color:white;
+}
+.testimonial-img{
+    width:10%;
+    border-radius: 50%;
+}
+/* change transition duration for smooth slide effect */
+.carousel-item {
+    
+    transition: transform 0.4s ease-in-out;
+    padding-right:7%;
+    padding-left:7%;
+  }
+
+/**Press section**/
+.press{
+    margin-top:8%;
+}
+.press-logo{
+    width:70%;
+}
+
+/**pricing**/
+.sign-up{
+    padding-left:4rem;
+    padding-right:4rem;
+}
+
+/**Call to action section**/
+.cta{
+    background-color: #ff4c68;
+    color:white;
+
+}
+.cta-heading{
+    padding-top:5%;
+    font-weight:600;
+    line-height:3rem;
+}
+
