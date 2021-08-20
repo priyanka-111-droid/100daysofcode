@@ -1,6 +1,6 @@
 # Blog Capstone part 2-adding styling
 
-Part 1 was done in [Day 57 Project.]((https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day057/Project/blog-templating/blog-templating-start))
+Part 1 was done in [Day 57 Project.](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day057/Project/blog-templating/blog-templating-start)
 
 ## 1.Download the starting bootstrap template
 
