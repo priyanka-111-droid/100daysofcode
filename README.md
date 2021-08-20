@@ -459,7 +459,9 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Web Foundation Bootstrap
 
+## [DAY 59:20/08/2021](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day059/upgraded-blog)
 
+    OVERALL:Blog Project part 2-adding styling(part 1 done on Day 57)
     
 
     
