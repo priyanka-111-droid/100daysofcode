@@ -463,7 +463,7 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL:Blog Project part 2-adding styling(part 1 done on Day 57)
 
-## [DAY 60:25/08/2021]
+## [DAY 60:25/08/2021](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day060)
 
     OVERALL:Make POST requests with Flask and HTML Forms
 
