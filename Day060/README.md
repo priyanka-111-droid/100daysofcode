@@ -20,14 +20,12 @@ https://www.w3schools.com/tags/att_form_action.asp
 
 https://flask.palletsprojects.com/en/2.0.x/quickstart/#url-building
 
-4.DIFFICULT CHALLENGE: See if you can use the Flask documentation below to figure out how to get hold of the name and password that was entered into the form and send it back to the client as a <h1>. 
+4.DIFFICULT CHALLENGE: See if you can use the Flask documentation below to figure out how to get hold of the name and password that was entered into the form and send it back to the client as a `<h1>`
 
 Documentation:
-
 https://flask.palletsprojects.com/en/1.1.x/quickstart/#the-request-object
 
 HINT:
-
 https://stackoverflow.com/questions/11556958/sending-data-from-html-form-to-a-python-script-in-flask
 
 
@@ -37,7 +35,7 @@ Let us make the form in the contact section of our blog site(Day 59) work.
 
 1.Add a "/form-entry" route in main.py to receive data from the form:
 
-2.CHALLENGE: Update the code in contact.html and main.py so that you print the information the user has entered into the form and return a <h1> that says "Successfully sent your message".
+2.CHALLENGE: Update the code in contact.html and main.py so that you print the information the user has entered into the form and return a `<h1>` that says "Successfully sent your message".
 
 3.CHALLENGE: Combine the "/contact" route with "/form-entry" so that they are both under the route "/contact" but depending on which method (GET/POST) that triggered the route, handle it appropriately.
 
@@ -45,7 +43,7 @@ HINT: You can use request.method to check which method triggered the route.
 
 https://flask.palletsprojects.com/en/2.0.x/quickstart/#http-methods
 
-4.CHALLENGE: Instead of returning a <h1> that says "Successfully sent message", update the contact.html file so that the <h1> on the contact.html file becomes "Successfully sent message".
+4.CHALLENGE: Instead of returning a `<h1>` that says "Successfully sent message", update the contact.html file so that the `<h1>` on the contact.html file becomes "Successfully sent message".
 
 Hint : https://jinja.palletsprojects.com/en/3.0.x/templates/#if
 
