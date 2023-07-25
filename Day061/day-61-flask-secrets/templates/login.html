@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block title %}Login{% endblock %}
+{% from 'bootstrap4/form.html' import render_form %}
+
+
+{% block content %}
+        <div class="container">
+        <!-- This is where our form will go. -->
+
+		{{ render_form(form) }}
+		<!-- <form method="POST" action="{{url_for('login')}}" novalidate>
+			{{ form.csrf_token }}
+
+			<p>
+				{{ form.email.label }}
+				<br>
+				{{ form.email(size=30) }}
+
+				{% if form.email.errors %}
+					{% for error in form.email.errors %}
+					<span style="color:red">{{ error }}</span>
+					{% endfor %}
+
+			{% endif %}
+			</p>
+			
+
+			<p>
+				{{ form.password.label }}
+				<br>
+				{{ form.password(size=30) }}
+
+				{% if form.password.errors %}
+				{% for error in form.password.errors %}
+					<span style="color:red">{{ error }}</span>
+				{% endfor %}
+				
+			{% endif %}
+			</p>
+			
+		
+			{{form.submit}}
+		</form> -->
+        </div>
+{% endblock %}
