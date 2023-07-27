@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% from 'bootstrap5/form.html' import render_form %}
+
+{% block title %}Edit Movies{% endblock %}
+
+{% block content %}
+<div class="content">
+  {% for i in movies %}
+  {% if i.id == num %}
+  <h1 class="heading"> {{i.title}}</h1>
+  {% endif %}
+  {% endfor %}
+
+  <p class="description">Edit Movie Rating</p>
+  {{ render_form(form, novalidate=True) }}
+</div>
+{% endblock %}
+
+
+
