@@ -28,7 +28,7 @@
         </p>
 
         <a class="button" href="{{url_for('edit', num = each_movie.id)}}">Update</a> 
-        <a href="#" class="button delete-button">Delete</a>
+        <a href="{{url_for('delete', num=each_movie.id)}}" class="button delete-button">Delete</a>
 
       </div>
     </div>
