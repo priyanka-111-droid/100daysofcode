@@ -487,5 +487,16 @@ Please feel free to point out any mistakes and suggestions.
 ## [DAY 66:30/07/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day066)
 
     OVERALL: Building Cafe API
-    
+
+## [DAY 67:31/07/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day067)
+
+    OVERALL: Upgraded Blog
+
+## [DAY 68:31/07/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day068)
+
+    OVERALL: Flask Authentication
+
+## [DAY 71:31/07/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day071)
+
+OVERALL:     
     
