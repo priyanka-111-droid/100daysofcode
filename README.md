@@ -507,3 +507,7 @@ OVERALL: Advanced Data visualization with Matplotlib
 ## [DAY 73:03/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day073)
 
 OVERALL: Aggregate and merge data with pandas and analyze LEGO dataset
+
+## [DAY 74:05/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day074)
+
+OVERALL: Google Trends Data visualization
