@@ -515,4 +515,8 @@ OVERALL: Google Trends Data visualization
 ## [DAY 75:06/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day075)
 
 OVERALL: Beautiful Plotly Charts and Android App Store
- 
+
+## [DAY 76:07/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day076)
+
+OVERALL: Computation with Numpy and Image analysis with scipy and PLT
+
