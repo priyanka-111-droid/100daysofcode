@@ -496,27 +496,30 @@ Please feel free to point out any mistakes and suggestions.
 
     OVERALL: Flask Authentication
 
-## [DAY 71:31/07/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day071)
+## [DAY 72:31/07/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day072)
 
 OVERALL: Data Exploration with pandas
 
-## [DAY 72:02/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day072)
+## [DAY 73:02/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day073)
 
 OVERALL: Advanced Data visualization with Matplotlib
     
-## [DAY 73:03/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day073)
+## [DAY 74:03/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day074)
 
 OVERALL: Aggregate and merge data with pandas and analyze LEGO dataset
 
-## [DAY 74:05/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day074)
+## [DAY 75:05/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day075)
 
 OVERALL: Google Trends Data visualization
 
-## [DAY 75:06/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day075)
+## [DAY 76:06/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day076)
 
 OVERALL: Beautiful Plotly Charts and Android App Store
 
-## [DAY 76:07/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day076)
+## [DAY 77:07/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day077)
 
 OVERALL: Computation with Numpy and Image analysis with scipy and PLT
 
+## [DAY 78:17/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day078)
+
+OVERALL: Advanced Linear Regression and Data visualisation using Seaborn
