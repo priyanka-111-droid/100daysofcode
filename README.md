@@ -523,3 +523,18 @@ OVERALL: Computation with Numpy and Image analysis with scipy and PLT
 ## [DAY 78:17/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day078)
 
 OVERALL: Advanced Linear Regression and Data visualisation using Seaborn
+
+## [DAY 78:17/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day078)
+
+OVERALL: Advanced Linear Regression and Data visualisation using Seaborn
+
+## [DAY 79:27/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day079)
+
+OVERALL: Analysing Nobel Prize with Plotly,matplotlib and Seaborn
+
+## [DAY 80:28/08/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day080)
+
+OVERALL: Tragic Discovery of Handwashing, t-Tests and Distributions 
+
+
+
