@@ -536,5 +536,10 @@ OVERALL: Analysing Nobel Prize with Plotly,matplotlib and Seaborn
 
 OVERALL: Tragic Discovery of Handwashing, t-Tests and Distributions 
 
+## [DAY 81:23/11/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day081)
 
+OVERALL: Multivariable regression
 
+## [DAY 82:25/11/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day082)
+
+OVERALL: Assignment 1 - Text to morse converter
