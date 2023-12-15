@@ -543,3 +543,8 @@ OVERALL: Multivariable regression
 ## [DAY 82:25/11/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day082)
 
 OVERALL: Assignment 1 - Text to morse converter
+
+## [DAY 83:15/12/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day083)
+
+OVERALL: Assignment 2 - Personal Portfolio Project 
+
