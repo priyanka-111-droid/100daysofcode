@@ -555,3 +555,8 @@ OVERALL: Assignment 3 - Tic-tac-toe
 ## [DAY 85:23/12/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day085)
 
 OVERALL: Assignment 4 - Image Watermarking Desktop App
+
+## [DAY 86:23/12/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day086)
+
+OVERALL: Assignment 5 - Typing Speed Test
+
