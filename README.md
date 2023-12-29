@@ -558,8 +558,13 @@ OVERALL: Assignment 4 - Image Watermarking Desktop App
 
 ## [DAY 86:23/12/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day086)
 
-OVERALL: Assignment 6 - Breakout Game
+OVERALL: Assignment 5 - Typing Speed Test
 
 ## [DAY 87:27/12/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day087)
 
+OVERALL: Assignment 6 - Breakout game
+
+## [DAY 88:29/12/2023](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day088)
+
+OVERALL: Assignment 7 - Cafe and Wifi website.
 
