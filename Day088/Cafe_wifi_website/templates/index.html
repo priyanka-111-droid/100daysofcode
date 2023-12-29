@@ -1,0 +1,82 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1 class="text-center p-5">{% block title %}Cafe and Wifi Website {% endblock %}</h1>
+
+    
+
+    {% for cafe in cafes %}
+      <div class="card mb-3">
+        <div class="row g-0">
+          <div class="col-md-4">
+            <img src="{{cafe['img_url']}}" class="img-fluid rounded-start" alt="...">
+          </div>
+          <div class="col-md-4">
+            <div class="card-body">
+              <h5 class="card-title">{{cafe['name']}}</h5>
+              <p class="card-text">{{cafe['location']}}</p>
+              <table class="table">
+                <tr>
+                  <td>Sockets</td>
+                  {% if cafe['has_sockets'] %}
+                  <td>✅</td>
+                  {% else %}
+                  <td>❌</td>
+                  {% endif %}
+
+                </tr>
+                <tr>
+                  <td>Toilet</td>
+                  {% if cafe['has_toilet']  %}
+                  <td>✅</td>
+                  {% else %}
+                  <td>❌</td>
+                  {% endif %}
+
+                </tr>
+                <tr>
+                  <td>Wifi</td>
+                  {% if cafe['has_wifi'] %}
+                  <td>✅</td>
+                  {% else %}
+                  <td>❌</td>
+                  {% endif %}
+
+                </tr>
+                <tr>
+                  <td>Can Take Calls</td>
+                  {% if cafe['can_take_calls'] %}
+                  <td>✅</td>
+                  {% else %}
+                  <td>❌</td>
+                  {% endif %}
+
+                </tr>
+                <tr>
+                  <td>Seats</td>
+                  <td>{{cafe['seats']}}</td>
+                </tr>
+                <tr>
+                  <td>Coffee Price</td>
+                  <td>{{cafe['coffee_price']}}</td>
+                </tr>
+              </table>
+            </div>
+          </div>
+
+
+          <div class="col-md-4 d-flex justify-content-center align-items-center text-center">
+            <div>
+              <a class="btn btn-primary" href="{{url_for('update_price', num = cafe.id)}}">Update Price</a>
+              <a class="btn btn-danger" href="{{url_for('delete_cafe', num=cafe.id)}}">Delete</a>
+            </div>
+          </div>
+
+            <!-- <div class="col-md-4">
+            <img src="{{cafe['map_url']}}" class="img-fluid rounded-end" alt="...">
+            
+          </div> -->
+        </div>
+      </div>
+    {% endfor %}
+{% endblock %}

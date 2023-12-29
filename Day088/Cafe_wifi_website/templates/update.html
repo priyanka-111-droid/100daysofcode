@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1 class="text-center p-5">{% block title %} Update Coffee Price{% endblock %}</h1>
+
+
+{% for cafe in cafes %}
+{% if cafe.id == num %}
+<p>Cafe Name: {{cafe.name}}</p>
+<p>Current Coffee Price: {{cafe.coffee_price}}</p>
+
+<form action="{{url_for('update_price', num= cafe.id)}}" method="POST">
+    {% endif %}
+    {% endfor %}
+    <input name="coffee_price" type="text" value="{{ request.form['coffee_price'] }}">
+    <button type="submit"> Update Coffee Price</button>
+</form>
+
+{% endblock %}

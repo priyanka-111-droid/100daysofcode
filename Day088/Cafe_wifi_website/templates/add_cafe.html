@@ -1,0 +1,87 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1 class="text-center p-5">{% block title %} Add new cafe{% endblock %}</h1>
+
+<form method="post">
+    <div class="form-group p-2">
+        <label for="name">Name</label>
+        <input type="text" name="name"
+               placeholder="Cafe name" class="form-control"
+               value="{{ request.form['name'] }}"></input>
+    </div>
+
+    <div class="form-group p-2">
+        <label for="map_url">Map URL</label>
+        <input type="text" name="map_url"
+               placeholder="Map url" class="form-control"
+               value="{{ request.form['map_url'] }}"></input>
+    </div>
+
+
+    <div class="form-group p-2">
+        <label for="img_url">Image URL</label>
+        <input type="text" name="img_url"
+               placeholder="Image url" class="form-control"
+               value="{{ request.form['img_url'] }}"></input>
+    </div>
+
+    <div class="form-group p-2">
+        <label for="location">Location</label>
+        <input type="text" name="location"
+               placeholder="Location" class="form-control"
+               value="{{ request.form['location'] }}"></input>
+    </div>
+
+    <div class="form-check">
+        <input class="form-check-input" type="checkbox" name="has_sockets" id="flexCheckDefault"  {% if request.form['has_sockets'] %} checked {% endif %}>
+        <label class="form-check-label" for="flexCheckDefault">
+          Sockets
+        </label>
+    </div>
+
+    
+    <div class="form-check">
+        <input class="form-check-input" type="checkbox" name="has_toilet" id="flexCheckDefault" {% if request.form['has_toilet'] %} checked {% endif %}>
+        <label class="form-check-label" for="flexCheckDefault">
+          Toilet
+        </label>
+    </div>
+    
+    <div class="form-check">
+        <input class="form-check-input" type="checkbox" name="has_wifi" id="flexCheckDefault" {% if request.form['has_wifi'] %} checked {% endif %}>
+        <label class="form-check-label" for="flexCheckDefault">
+          Wifi
+        </label>
+    </div>
+    
+    <div class="form-check">
+        <input class="form-check-input" type="checkbox" name="can_take_calls" id="flexCheckDefault" {% if request.form['can_take_calls'] %} checked {% endif %}>
+        <label class="form-check-label" for="flexCheckDefault">
+          Can take calls
+        </label>
+    </div>
+    
+    <select class="form-select m-2" name="seats" value="{{ request.form['seats'] }}" aria-label="Default select example">
+        <option selected>Number of Seats available</option>
+        <option value="0-10">0-10</option>
+        <option value="10-20">10-20</option>
+        <option value="20-30">20-30</option>
+        <option value="50+">50+</option>
+    </select>
+
+    
+    <div class="form-group p-2">
+        <label for="coffee_price">Coffee Price</label>
+        <input type="text" name="coffee_price"
+               placeholder="price" class="form-control"
+               value="{{ request.form['coffee_price'] }}"></input>
+    </div> 
+
+
+    
+    <div class="form-group p-2">
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+</form>
+{% endblock %}

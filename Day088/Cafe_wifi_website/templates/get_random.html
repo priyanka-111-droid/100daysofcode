@@ -1,0 +1,71 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+    <h1 class="text-center p-5">{% block title %}Get Random Cafe {% endblock %}</h1>
+
+    
+
+
+      <div class="card mb-3">
+        <div class="row g-0">
+          <div class="col-md-4">
+            <img src="{{random_cafe['img_url']}}" class="img-fluid rounded-start" alt="...">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h5 class="card-title">{{random_cafe['name']}}</h5>
+              <p class="card-text">{{random_cafe['location']}}</p>
+              <table class="table">
+                <tr>
+                  <td>Sockets</td>
+                  {% if random_cafe['has_sockets'] %}
+                  <td>✅</td>
+                  {% else %}
+                  <td>❌</td>
+                  {% endif %}
+
+                </tr>
+                <tr>
+                  <td>Toilet</td>
+                  {% if random_cafe['has_toilet']  %}
+                  <td>✅</td>
+                  {% else %}
+                  <td>❌</td>
+                  {% endif %}
+
+                </tr>
+                <tr>
+                  <td>Wifi</td>
+                  {% if random_cafe['has_wifi'] %}
+                  <td>✅</td>
+                  {% else %}
+                  <td>❌</td>
+                  {% endif %}
+
+                </tr>
+                <tr>
+                  <td>Can Take Calls</td>
+                  {% if random_cafe['can_take_calls'] %}
+                  <td>✅</td>
+                  {% else %}
+                  <td>❌</td>
+                  {% endif %}
+
+                </tr>
+                <tr>
+                  <td>Seats</td>
+                  <td>{{random_cafe['seats']}}</td>
+                </tr>
+                <tr>
+                  <td>Coffee Price</td>
+                  <td>{{random_cafe['coffee_price']}}</td>
+                </tr>
+              </table>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+{% endblock %}

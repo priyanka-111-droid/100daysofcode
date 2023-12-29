@@ -1,0 +1,83 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1 class="text-center p-5">{% block title %}Similar Results: {% endblock %}</h1>
+
+
+    {% set is_there_any_location = False %}
+
+    {% for cafe in cafes %}
+        {% if cafe.location == location %}
+          {% set is_there_any_location = True %}
+
+        <div class="card mb-3">
+            <div class="row g-0">
+              <div class="col-md-4">
+                <img src="{{cafe['img_url']}}" class="img-fluid rounded-start" alt="...">
+              </div>
+              <div class="col-md-8">
+                <div class="card-body">
+                  <h5 class="card-title">{{cafe['name']}}</h5>
+                  <p class="card-text">{{cafe['location']}}</p>
+                  <table class="table">
+                    <tr>
+                      <td>Sockets</td>
+                      {% if cafe['has_sockets'] %}
+                      <td>✅</td>
+                      {% else %}
+                      <td>❌</td>
+                      {% endif %}
+
+                    </tr>
+                    <tr>
+                      <td>Toilet</td>
+                      {% if cafe['has_toilet']  %}
+                      <td>✅</td>
+                      {% else %}
+                      <td>❌</td>
+                      {% endif %}
+
+                    </tr>
+                    <tr>
+                      <td>Wifi</td>
+                      {% if cafe['has_wifi'] %}
+                      <td>✅</td>
+                      {% else %}
+                      <td>❌</td>
+                      {% endif %}
+
+                    </tr>
+                    <tr>
+                      <td>Can Take Calls</td>
+                      {% if cafe['can_take_calls'] %}
+                      <td>✅</td>
+                      {% else %}
+                      <td>❌</td>
+                      {% endif %}
+
+                    </tr>
+                    <tr>
+                      <td>Seats</td>
+                      <td>{{cafe['seats']}}</td>
+                    </tr>
+                    <tr>
+                      <td>Coffee Price</td>
+                      <td>{{cafe['coffee_price']}}</td>
+                    </tr>
+                  </table>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+      {% endif %}
+    {% endfor %}  
+
+    
+    {% if not is_there_any_location %}
+      <h3 class="text-center p-5">Sorry,no cafes were found at that location.</h1>
+    {% endif %} 
+    
+
+{% endblock %}
