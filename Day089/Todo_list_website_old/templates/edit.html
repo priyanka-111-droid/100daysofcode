@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1 class="text-center p-5">{% block title %} Edit "{{ todo_to_update['title'] }}" {% endblock %}</h1>
+
+
+
+<p>Current title: {{todo_to_update.title}}</p>
+<p>Current Content: {{todo_to_update.content}}</p>
+<p>Current status: {{todo_to_update.complete}}</p>
+
+<form action="{{url_for('edit', num= todo_to_update.id)}}" method="POST">
+
+    <hr>
+
+    <div class="form-group p-2">
+        <label for="title">Updated Title:</label><br>
+        <input name="title" type="text" value="{{ request.form['title'] or todo_to_update['title'] }}">
+    </div>
+
+    <div class="form-group p-2">
+    <label for="content">Updated Content:</label><br>
+    <textarea name="content" placeholder="Item content"
+                  class="form-control">
+                  {{ request.form['content'] or todo_to_update['content']}}
+    </textarea>
+    </div>
+
+
+    <div class="form-group p-2">
+    <label for="complete">Updated status (todo/doing/done): </label><br>
+    <input name="complete" type="text" value="{{ request.form['complete'] or todo_to_update['complete'] }}">
+    </div>
+
+
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Edit</button>
+    </div>
+</form>
+
+{% endblock %}

@@ -1,0 +1,81 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1 class="text-center p-4">To do List Website</h1>
+<!--list of items-->
+<div class="d-flex flex-column flex-lg-row">
+  <!--
+    flex-column class for smaller screens and 
+    flex-lg-row to specify that the columns should align 
+    horizontally on larger screens.
+  -->
+  <div class="list-group col-md-12 col-lg-4"> <!--specifiy width of each list group-->
+    <h3 class="text-center">To do</h3>
+    <ul class="list-group m-5 sortable" id="sortable1">
+        {% for todo in todos %}
+
+            {% if todo.complete == "todo" %}
+            <li class="list-group-item" draggable="true">
+                <h4>{{todo['title']}} </h5>
+                <p>
+                    {{todo['content']}}
+                </p>
+
+                <div class="text-center">
+                      <a class="btn btn-primary" href="{{url_for('edit', num = todo.id)}}">Edit</a>
+                      <a class="btn btn-danger" href="{{url_for('delete', num = todo.id)}}">Delete</a>
+                </div>        
+            </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+  </div>
+
+  <div class="list-group col-md-12 col-lg-4"> <!--specifiy width of each list group-->
+    <h3 class="text-center">Doing</h3>
+    <ul class="list-group m-5 sortable" id="sortable1">
+        {% for todo in todos %}
+
+            {% if todo.complete == "doing" %}
+            <li class="list-group-item" draggable="true">
+                <h4>{{todo['title']}} </h5>
+                <p>
+                    {{todo['content']}}
+                </p>
+                <div class="text-center">
+                    
+                      <a class="btn btn-primary" href="{{url_for('edit', num = todo.id)}}">Edit</a>
+                      <a class="btn btn-danger" href="{{url_for('delete', num = todo.id)}}">Delete</a>
+                    
+                </div>      
+            </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+  </div>
+
+  <div class="list-group col-md-12 col-lg-4"> <!--specifiy width of each list group-->
+    <h3 class="text-center">Done</h3>
+    <ul class="list-group m-5 sortable" id="sortable1">
+        {% for todo in todos %}
+
+            {% if todo.complete == "done" %}
+            <li class="list-group-item" draggable="true">
+                <h4>{{todo['title']}} </h5>
+                <p>
+                    {{todo['content']}}
+                </p>
+                <div class="text-center">
+ 
+                      <a class="btn btn-primary" href="{{url_for('edit', num = todo.id)}}">Edit</a>
+                      <a class="btn btn-danger" href="{{url_for('delete', num = todo.id)}}">Delete</a>
+
+                </div>      
+            </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+  </div>
+</div>
+
+{% endblock %}
