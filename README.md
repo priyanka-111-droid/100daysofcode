@@ -580,3 +580,7 @@ OVERALL: Assignment 9 - Disappearing Text Writing App
 
 OVERALL: Assignment 10 - Text to Speech App
 
+## [DAY 91:24/04/2024](https://github.com/priyanka-111-droid/100daysofcode/tree/main/Day092)
+
+OVERALL: Assignment 10 -Image Color Palette Generator
+

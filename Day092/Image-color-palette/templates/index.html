@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Image Colour Palette</title>
+    <link href="{{ url_for('static', filename='css/styles.css')}}" rel="stylesheet">
+</head>
+<body>
+<body>
+<h1>Image Colour Palette Generator</h1>
+<h3>Upload an image to generate a colour palette from it</h3>
+
+<form , action="/submit" enctype="multipart/form-data" method="post">
+    <div class="file-button" >
+        <label for="file">
+            Upload image
+            <input accept="image/png, image/jpeg" id="file" name="file" type="file">
+        </label>
+    </div>
+    
+    <br>
+    <input class="submit-button" type="submit" value="Submit">
+</form>
+
+{% if hex_success == True: %}
+
+<p>The Top 10 occurring colours in this image are shown below</p>
+
+{% for hex in palette_hex %}
+
+<div class="color-card">
+    <div class="show-color">
+        <div class="show-hex-info">Hex Code: {{ hex }}</div>
+        <div class="show-rgb-info">RGB Code: {{ palette_rgb[loop.index - 1 ] }}</div>
+    </div>
+</div>
+<br>
+
+{% endfor %}
+
+{% endif %}
+</body>
+</html>
